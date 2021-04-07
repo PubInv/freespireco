@@ -184,12 +184,20 @@ which are loosely cooperating in meetings organized by these
 nonprofits.
 
 So in terms of medical devices, The Freespireco Project plans to
-develop designs for six different but related kinds of devices: An
-invasive ventilator, An non-invasive ventilator, A transport
-ventilator, A BPAP machine, A CPAP machine, An anesthesia machine, and
-A PAPR.  However, it will do so by making four cooperating modules: An
-Air Drive, A Sense Module, A Controller, and A User Interface.  These
-modules will be sufficiently configurable to support use in any of the
+develop designs for six different but related kinds of devices:
+1. An invasive ventilator, 
+2. An non-invasive ventilator, 
+3. A transport ventilator, 
+4. A BPAP machine, 
+5. A CPAP machine, 
+6. 6. An anesthesia machine, and
+7. A PAPR.  
+However, it will do so by making four cooperating modules: 
+1. An Air Drive, 
+2. A Sense Module, 
+3. A Controller, and 
+4. A User Interface.  
+These modules will be sufficiently configurable to support use in any of the
 six respiration support machines.
 
 Public Invention has already made the Sense Module, in the form of the
