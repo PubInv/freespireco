@@ -51,7 +51,8 @@ If a file does not have a license, please assume either the repo license or this
 A file which does not clearly have a license is likely an oversight on our part, and we invite you to bring it to our attention.
 
 ## Assignment of Copyright
-Since \[Publice Invention\] is a legal entity, volunteers are expected to assign the copyright of work done on \[The Freespireco Project\] to \[Public Invention\] 
+Since \[Public Invention\] is a US501(c)3 pubic charity, volunteers are expected to 
+assign the copyright of work done on \[The Freespireco Project\] to \[Public Invention\] 
 so that in a copyright dispute there is a single copyright holder 
 (\[Public Invention\]) to simplify things. \[Public Invention\] will continue to attribute the work to original author where feasible.
 
