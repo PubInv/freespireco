@@ -63,7 +63,10 @@ manufacturing know-how, but there may not be designs available. There
 may be designs available, but there may be legal impediments. It may
 be possible to make the devices, but it may not be possible to make
 devices that have regulatory approval allowing distribution and use.
-The Solution [Public Invention](https://www.pubinv.org/) proposes to create The Freespireco
+
+## The Solution
+
+[Public Invention](https://www.pubinv.org/) proposes to create The Freespireco
 Project to create a complete, free-libre open-source, widely usable,
 safe and effective respiration system.
 
@@ -150,6 +153,21 @@ Although poverty and a lack of engineers or manufacturing facilities
 might prevent a given nation or community from making these devices,
 they would not be stopped by a lack of the right to do so or a lack of
 the knowledge of how to do so, which would be freely shared.
+
+## What Failure Would Mean
+
+Without Freespireco or something like it, the world will be missing a model
+of organizing large efforts to create free-libre open source medical devices.
+
+Without Freespireco, no nation will be completely legally empowered to meet
+shortages in respiration equipment.
+
+Without Freespireco, the tremendous humanitarian effort of 2020 to address 
+ventilator shortages will be largely lost.
+
+Without Freespireco, research may continue on respiration support devices
+but it will be harder for teams to obtain synergize and reuse through sharing knowledge
+and technology.
 
 ## The Components of the System Ventilation Pieces
 
