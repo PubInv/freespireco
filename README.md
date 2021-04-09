@@ -9,7 +9,7 @@
 A clear and present need for
 a complete, free-libre open-source, widely usable, safe and effective
 respiration ecosystem has been demonstrated by the COVID-19
-pandemic. Public Invention asks that you support our project to create
+pandemic. [Public Invention](https://www.pubinv.org/) asks that you support our project to create
 such a system, to be called The Freespireco Project.
 
 By “complete ... respiration system” we mean all of the composable
@@ -63,7 +63,7 @@ manufacturing know-how, but there may not be designs available. There
 may be designs available, but there may be legal impediments. It may
 be possible to make the devices, but it may not be possible to make
 devices that have regulatory approval allowing distribution and use.
-The Solution Public Invention proposes to create The Freespireco
+The Solution [Public Invention](https://www.pubinv.org/) proposes to create The Freespireco
 Project to create a complete, free-libre open-source, widely usable,
 safe and effective respiration system.
 
@@ -133,7 +133,7 @@ materials may already be available, and nothing encumbers the quick
 production of new training materials---for example, in a new language
 to meet a need in one geographic region.
 
-The devices are not gratis or free-as-in-free lunch---they have a
+The devices are not *gratis* or free-as-in-free lunch---they have a
 cost. However, because they are free-as-in-speech, nobody has a
 monopoly or oligopoly on them. The market is more free than
 previously, and the cost is generally lower. More firms may
@@ -177,7 +177,7 @@ decomposition or their implementation of the individual pieces.
 However, Freespireco, a volunteer effort, has different incentives. It
 has every reason to treat these four components as separate projects,
 perhaps each with its own team, producing reusable components. In
-fact, Public Invention and Helpful Engineering working together have
+fact, [Public Invention](https://www.pubinv.org/) and [Helpful Engineering](https://helpfulengineering.org/) working together have
 already produced a Sense Module, ad Controller, and are working on a
 User Interface. This is supported by several teams making ventilators
 which are loosely cooperating in meetings organized by these
@@ -190,7 +190,7 @@ develop designs for six different but related kinds of devices:
 3. A transport ventilator, 
 4. A BPAP machine, 
 5. A CPAP machine, 
-6. 6. An anesthesia machine, and
+6. An anesthesia machine, and
 7. A PAPR.  
 However, it will do so by making four cooperating modules: 
 1. An Air Drive, 
@@ -200,13 +200,14 @@ However, it will do so by making four cooperating modules:
 These modules will be sufficiently configurable to support use in any of the
 six respiration support machines.
 
-Public Invention has already made the Sense Module, in the form of the
-free-libre VentMon T0.4 device, of which 23 have been distributed to
-teams around the world free of charge. Helpful Engineering is making
-the controller in the form of the VentOS open-source ventilation
-platform, which is well underway. Public Invention is making one
+[Public Invention](https://www.pubinv.org/) has already made the Sense Module, in the form of the
+free-libre [VentMon T0.4 device](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor), 
+of which 25 have been distributed to
+teams around the world free of charge. [Helpful Engineering](https://helpfulengineering.org/) is making
+the controller in the form of the [VentOS](https://gitlab.com/project-ventos/ventos) open-source ventilation
+platform, which is well underway. [Public Invention](https://www.pubinv.org/) is making one
 variant of the Air Drive, based on bellows, being designed by the
-PolyVent project, which intends to use VentOS and the VentMon to
+[PolyVent](https://gitlab.com/polyvent/polyvent) project, which intends to use VentOS and the VentMon to
 deliver a complete ventilator.
 
 ## Free and Open Standards
@@ -215,18 +216,18 @@ Standards allow collaboration between teams of
 engineers, but even more importantly allow collaboration between
 medical researchers and clinicians. By emphasizing free and open
 non-proprietary standards, we foster international collaboration and
-collaboration between projects. Public Invention has already created
+collaboration between projects. [Public Invention](https://www.pubinv.org/) has already created
 two such standards, which are lightly in use and embodied in working
-code: The Public Invention Respiration Data Standard (PIRDS) and the
-Public Invention Respiration Control Standard (PIRCS). PIRDS allows
-recording and logging of the graphs of pressure and flow used by
-clinicians displayed on working ventilators. PIRCS standardizes the
+code: The Public Invention Respiration Data Standard ([PIRDS](https://github.com/PubInv/PIRDS-pubinv-respiration-data-standard)) and the
+Public Invention Respiration Control Standard ([PIRCS](https://github.com/PubInv/PIRCS-pubinv-respiration-control-standard)). PIRDS allows
+recording and logging via the [PIRDS-logger](https://github.com/PubInv/PIRDS-logger) of the graphs of pressure and flow used by
+clinicians displayed (perhaps via [VentDisplay](https://github.com/PubInv/vent-display)) on working ventilators. PIRCS standardizes the
 control settings for these ventilators.
 
 The standards have version numbers and no doubt will evolve through
 augmentation over time. Although unglamorous, the disciplined
 maintenance of these standards is one of the most important things
-that Public Invention has done and will do for the Freespireco
+that [Public Invention](https://www.pubinv.org/) has done and will do for the Freespireco
 project.
 
 ## Oxygen Concentrators
@@ -234,7 +235,8 @@ project.
 More disease conditions require therapeutic
 oxygen than mechanical ventilation. Designs which enable firms to
 provide safe, effective, affordable oxygen concentrators ubiquitously
-across the world would be enormously beneficial.
+across the world would be enormously beneficial.[Public Invention](https://www.pubinv.org/) 
+has begun a free-libre opens source oxygen concentrator called [the Ox](https://github.com/PubInv/Ox)
 
 The Sense Module (such as the VentMon) needed for ventilators is very
 similar to the sensing needed internally to control a pressure-swing
@@ -253,8 +255,11 @@ of the machines in practice by coordinating the development teams and
 their testing is very useful.
 
 We can enumerate independent composable of components relate to oxygen
-concentration as: Pressure Swing Adsorption chambers Dryers Filters
-Oxygen Blenders Precision pressure release valves
+concentration as: 
+1. Pressure Swing Adsorption chambers 
+2. Dryers Filters 
+3. Oxygen Blenders 
+4. Precision pressure release valves
 
 ## Anesthesia Machines
 
@@ -267,20 +272,28 @@ way that runs inside the devices themselves.
 
 However, there are many functions outside the devices, for clinical
 control and analysis, medical research, and engineering testing and
-maintenance. Public Invention has begun this with its standards, and
+maintenance. [Public Invention](https://www.pubinv.org/) has begun this with its standards, and
 also the PIRDS logger system and the VentDisplay software. More work
 is required, such as allowing multi-day analysis of PIRDS log files.
 Minor Components Although essential, there are other minor components
 needed by the respiration ecosystem that deserve free-libre open
-source designs. These include but are not limited to: Patient
-Inflating Valves One-way check valves PEEP valves Emergency pop-off
-valves Sanitizers Heaters Humidifiers Dryers Nebulizers CO2 scrubbers
+source designs. These include but are not limited to: 
+1. [Patient Inflating Valves](https://github.com/PubInv/patient-inflating-valve)
+1. One-way check valves 
+1. PEEP valves 
+1. Emergency pop-off valves 
+2. Sanitizers 
+3. Heaters 
+4. Humidifiers 
+5. Dryers 
+6. Nebulizers 
+7. CO2 scrubbers
 
 # Testing, Transparency, and Trust
 
 Testing is paramount to The Freespireco Project.
 
-Public Invention developed the VentMon Monitor/Test before developing
+[Public Invention](https://www.pubinv.org/) developed the VentMon Monitor/Test before developing
 any air production components as an expression of this principle:
 Testing drives development.
 
@@ -312,39 +325,52 @@ approval by bodies such as the FDA.
 
 Developing a public commons of reusable documentation suitable for
 wholesale inclusion in such applications is a major goal of The
-Freespireco Project.  Licensing In order to create a free public
+Freespireco Project. 
+
+# Licensing 
+
+In order to create a free public
 commons of respirations devices that anyone can build and strongly
 encourage the contribution of improvements to the public, Freespireco
-using strong reciprocal, or share-alike licenses. For software, this
-is the Affero GNU Public License (AGPL).
+using strong reciprocal, or share-alike licenses.
 
-If anyone makes an improvement to a device or piece of software in the
-public commons covered by the AGPL and sells or gives or offers it as
-a web service to another person, then their improvement must be
-published back into the public commons for others to use.
+Our license policy is reflected in the [Public Invention Licensing Guidelines](https://github.com/PubInv/PubInv-License-Guidelines) which
+we encourage others to reuse.
 
-The best analogous approach for hardware objects, such as a valve or a
-case, is the CERN Open Hardware Licence Version 2- Strong Reciprocal.
+There is currently no free public commons of examples of application information submitted to regulatory
+bodies for approval. In order to create one, [Public Invention](https://www.pubinv.org/) has begun making the [Regulatory Sunlight Agreement](https://github.com/PubInv/RegulatorySunlight)
+which is analogous to a share-alike or reciprocal license for regulatory matter.
 
-Documentation will be licensed under CC0 1.0 Universal (CC0 1.0)
-Public Domain Dedication. This licence will allow for translation of
-the documentation into multiple languages most easily.  Patents The
-Freespireco Project will not seek patents. We will attempt to create a
+# Patents 
+
+The Freespireco Project will not seek patents. We will attempt to create a
 public commons which has maximum safety and effectiveness and ease of
 use, manufacture, deployment. Therefore we will avoid infringing
 patents wherever possible, and clearly delineate features where
 necessary to allow potential manufacturers to operate without fear,
-uncertainty and doubt (FUD).  Timeline The Freespireco Project expects
+uncertainty and doubt (FUD).  
+
+# Timeline 
+
+The Freespireco Project expects
 to operate on the scale of decades, and to re-evaluate itself after
 each five years. We expect a complete respiration ecosystem to be
-saving lives within the first decade.  Research Usage Of all potential
+saving lives within the first decade.  
+
+# Research Usage 
+
+Of all potential
 users, medical researchers will benefit soonest from The Freespireco
 project because it will be a platform that accommodates both hardware
 and software research ideas. As a free platform, it allows a research
 team to create and test a new feature with maximum
 transparency. Researchers will also benefit from our emphasis of
 automated testing, extensive instrumentation, and complete
-documentation.  Likely Contributors Experience has shown that it is
+documentation.
+
+## Likely Contributors 
+
+Experience has shown that it is
 important to lower the barriers to entry for any contributor in order
 to encourage many contributors.
 
@@ -357,8 +383,8 @@ the project relatively easily.
 
 The most likely contributors to The Freespireco Project will be:
 Humanitarian engineers, such as the tens of thousands that have joined
-the Slack channels of non-profits in 2020 such as Public Invention,
-Helpful Engineering, COSMIC, and Open Source Medical Supplies.
+the Slack channels of non-profits in 2020 such as [Public Invention](https://www.pubinv.org/),
+Helpful Engineering, [COSMIC](https://cosmicmedical.ca/), and Open Source Medical Supplies.
 Academic researchers using The Freespireco Project for their own
 research.  Makers motivated primarily by the joy of creation.
 
@@ -380,15 +406,15 @@ Project may from time to time sell devices not intended to be used as
 medical devices to humanitarian engineers, researchers, and makers
 because it often saves a lot of time and money to produce a small
 manufacturing run of a few tens of machines, as opposed to having each
-party make their own. For example, Public Invention has made two
+party make their own. For example, [Public Invention](https://www.pubinv.org/) has made two
 production runs of the VentMon Monitor/Tester which it gave away
 gratis as a condition of grants it received from the Mozilla Open
-Software Foundation and Protocol Labs. In the future, Public Invention
+Software Foundation and Protocol Labs. In the future, [Public Invention](https://www.pubinv.org/)
 might sell these devices to researchers and contributors to cover
 their production costs.
 
 Working with For Profit Firms The Freespireco Project is a non-profit
-project hosted by Public Invention, a US 501(c)3 non-profit. However,
+project hosted by [Public Invention](https://www.pubinv.org/), a US 501(c)3 non-profit. However,
 following the policy of strict vendor neutrality, we welcome any use
 of The Freespireco Project devices, whether for-profit or not, so long
 as the letter and spirit of our free culture intention is followed. We
@@ -401,7 +427,7 @@ regulatory approval costs.
 
 ## Community over Code
 
-The Apache Way articulates the principle:
+[The Apache Way](https://www.apache.org/theapacheway/) articulates the principle:
 “Community over Code”.
 
 The code is easy to see. But in fact having hundreds of volunteers
@@ -420,7 +446,7 @@ volunteers to have a modicum of hardware. Writing in the 2020s, these
 costs have become relatively low, generally measured in thousands of
 US dollars, but usually not tens of thousands.
 
-Public Invention does not compensate volunteers. However, we have
+[Public Invention](https://www.pubinv.org/) does not compensate volunteers. However, we have
 purchased equipment, but durable and consumable, for volunteers. Our
 experience has been that this has a high return on investment in terms
 of increased morale and motivation. For whatever reason, many
@@ -441,7 +467,7 @@ skilled volunteers. In addition to programmers, engineers, and
 inventors, we need project managers, medical experts, regulatory
 experts, technical writers and graphic artists.
 
-But the easiest way to help is by making a donation.
+But the easiest way to help is by making a [donation](https://www.pubinv.org/donate/).
 
 
 
