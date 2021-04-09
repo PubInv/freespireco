@@ -11,7 +11,7 @@ a complete, free-libre open-source, widely usable, safe and effective
 respiration ecosystem. [Public Invention](https://www.pubinv.org/) asks that you support our project to create
 such a system, to be called The Freespireco Project.
 
-By “complete ... respiration system”, we mean all of the composable
+By “complete ... respiration system," we mean all of the composable
 components needed to medically and therapeutically assist people
 having trouble breathing for whatever reason. By “free-libre
 open-source,” we mean that ordinary people with ordinary skills
