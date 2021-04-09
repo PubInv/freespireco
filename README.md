@@ -1,6 +1,6 @@
 
 
-# The Freespireco Project: A complete, free-libre open-source, widely usable, safe and effective respiration ecosystem
+# The Freespireco Project: A complete, free-libre open-source, easily repairable, widely usable, safe and effective respiration ecosystem
 
 -- Robert L. Read
 
@@ -301,7 +301,7 @@ concentration as:
 ### Anesthesia Machines
 
 Anesthesia machines represent an additional
-medical device which shares many companies with the Respireco system. 
+medical device which shares many companies with the Freespireco system. 
 The major components of the respiration ecosystem generally
 have microcontrollers and thus, software. VentOS is an important
 beginning of this software which has been developed in a disciplined
@@ -354,7 +354,7 @@ results is crucial to building trust.
 The pandemic experiences has produced anecdotal reports of broken equipment in low-resource communities that might
 have saved lives if repairable.
 
-"Trusth through transparency" implies "Trust through testing". Respireco will design devices that 
+"Trusth through transparency" implies "Trust through testing". Freespireco will design devices that 
 can be easily tested not just at their time of deployment, but throughout their lifecyle. A device
 that it easy to test is likely to be easy to reliably repair.
 
@@ -523,7 +523,7 @@ anticipate compensating volunteers directly.
 
 ## How You Can Help
 
-The Respireco Project needs your support. Like any
+The Freespireco Project needs your support. Like any
 project, we need encouragement and fans. Even more than software
 projects, we will need financial support, because the capital costs of
 developing hardware are higher than software. But above all, we need
