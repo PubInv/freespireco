@@ -402,7 +402,7 @@ the project relatively easily.
 The most likely contributors to The Freespireco Project will be:
 Humanitarian engineers, such as the tens of thousands that have joined
 the Slack channels of non-profits in 2020 such as [Public Invention](https://www.pubinv.org/),
-Helpful Engineering, [COSMIC](https://cosmicmedical.ca/), and Open Source Medical Supplies.
+Helpful Engineering, [COSMIC](https://cosmicmedical.ca/), and [Open Source Medical Supplies](https://opensourcemedicalsupplies.org/).
 Academic researchers using The Freespireco Project for their own
 research.  Makers motivated primarily by the joy of creation.
 
