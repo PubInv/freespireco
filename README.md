@@ -258,6 +258,9 @@ recording and logging via the [PIRDS-logger](https://github.com/PubInv/PIRDS-log
 clinicians displayed (perhaps via [VentDisplay](https://github.com/PubInv/vent-display)) on working ventilators. PIRCS standardizes the
 control settings for these ventilators.
 
+![VentDisplay](https://user-images.githubusercontent.com/5296671/114180755-3dc36080-9906-11eb-94ee-f86932bc3cc8.png)
+
+
 The standards have version numbers and no doubt will evolve through
 augmentation over time. Although unglamorous, the disciplined
 maintenance of these standards is one of the most important things
