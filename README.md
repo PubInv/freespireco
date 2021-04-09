@@ -121,14 +121,15 @@ spectacularly, and another pandemic occurs that requires us as a
 planet to treat an acute quintupling of patients with respiratory
 distress. Because of Freespireco, anyone in the world can examine a
 complete set of plans and other documents explaining how to make safe
-and effective devices.  Because these devices have been developed
+and effective devices. Because these devices have been developed
 transparently in the open and large amounts of test and regulatory
 documentation are available, their safety and effectiveness is easy to
 judge and evaluate. Application for the approval to market such
 devices is relatively easy because of the transparent nature of the
 design history of these devices. Because they are developed in an
 ecosystem, it is easy to understand how these devices work together
-when they need to.
+when they need to. Innumerable business opportunities to manufacture and market
+these devices widely are created. 
 
 Because they are part of a free and transparent ecosystem, quickly
 training people to use the devices is relatively easy. Training
@@ -169,7 +170,15 @@ Without Freespireco, research may continue on respiration support devices
 but it will be harder for teams to obtain synergize and reuse through sharing knowledge
 and technology.
 
+Without Freespireco, many business opportunities would be closed. 
+Large businesses will have to duplicate research effort rather than compose 
+existing systems into markerable devices. Small businesses will face high
+barriers to entry in designing and obtaining regulatory approval for devices.
+
 ## The Components of the System Ventilation Pieces
+
+![Freespireco](https://user-images.githubusercontent.com/5296671/114180047-567f4680-9905-11eb-81d2-65d1544641db.png)
+
 
 Although not exhaustive, let us consider some of the main components
 of the Respiration Ecosystem.
@@ -183,6 +192,8 @@ non-invasive ventilation are quite different in medical practice, but
 ventilation machines in each case are very similar. In fact, from an
 engineers point of view, all ventilators can be thought of as having
 four components as shown in the diagram below:
+
+![Three Biggest Modules (4)](https://user-images.githubusercontent.com/5296671/114179479-a8739c80-9904-11eb-940b-289addf823a2.png)
 
 Until now, no firm has had an incentive to develop an Air Drive, Sense
 Module, Controller or User Interface for a ventilator as a separate
@@ -218,6 +229,8 @@ However, it will do so by making four cooperating modules:
 These modules will be sufficiently configurable to support use in any of the
 six respiration support machines.
 
+![VentMonT0 4](https://user-images.githubusercontent.com/5296671/114179068-25eadd00-9904-11eb-837c-8f127a44ca7b.JPG)
+
 [Public Invention](https://www.pubinv.org/) has already made the Sense Module, in the form of the
 free-libre [VentMon T0.4 device](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor), 
 of which 25 have been distributed to
@@ -227,6 +240,9 @@ platform, which is well underway. [Public Invention](https://www.pubinv.org/) is
 variant of the Air Drive, based on bellows, being designed by the
 [PolyVent](https://gitlab.com/polyvent/polyvent) project, which intends to use VentOS and the VentMon to
 deliver a complete ventilator.
+
+![Reponsibilities and requirements](https://user-images.githubusercontent.com/5296671/114179327-72361d00-9904-11eb-8542-834aec0202b0.png)
+
 
 ### Free and Open Standards
 
@@ -334,7 +350,11 @@ results is crucial to building trust.
 ## Regulatory Approval
 
 The Freespireco Project facilitates regulatory
-approval.
+approval, but will not market devices itself. Rather, it will
+create business opportunities for other firms to use its research.
+
+![FreespirecoRegulatory](https://user-images.githubusercontent.com/5296671/114180201-829ac780-9905-11eb-8513-b6020a10bf42.png)
+
 
 By providing full design history transparency and extensive
 transparently documented testing records and extensive telemetry, The
@@ -399,12 +419,17 @@ cost between USD$1000 and USD$3000. This is low enough that academic
 researchers, humanitarian engineers, and makers will be able to join
 the project relatively easily.
 
+
+![MajorHumanitarianEngineringOrganizations](https://user-images.githubusercontent.com/5296671/114179733-f8eafa00-9904-11eb-9c0b-de7505ad17b8.png)
+
 The most likely contributors to The Freespireco Project will be:
 Humanitarian engineers, such as the tens of thousands that have joined
 the Slack channels of non-profits in 2020 such as [Public Invention](https://www.pubinv.org/),
 Helpful Engineering, [COSMIC](https://cosmicmedical.ca/), and [Open Source Medical Supplies](https://opensourcemedicalsupplies.org/).
 Academic researchers using The Freespireco Project for their own
 research.  Makers motivated primarily by the joy of creation.
+
+
 
 ## Development Process
 
