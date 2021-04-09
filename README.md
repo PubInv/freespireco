@@ -7,7 +7,7 @@
 ## The Freespireco Manifesto
 
 The COVID-19 pandemic has demonstrated a clear and present need for
-a complete, free-libre open-source, widely usable, safe and effective
+a complete, free-libre open-source, easily repairable, widely usable, safe and effective
 respiration ecosystem. [Public Invention](https://www.pubinv.org/) asks that you support our project to create
 such a system, to be called The Freespireco Project.
 
@@ -18,6 +18,8 @@ open-source,” we mean that ordinary people with ordinary skills
 can construct each component in the art of making electromechanical devices 
 with the help of clear and already-published designs,
 plans, instructions, and regulatory documentation free for all to use and share. 
+By "easily repairable" we mean that the owners of equipment have both the legal right 
+and technical information to make safe repairs.
 Furthermore, those plans can be legally improved upon, so long
 as those improvements are shared under the same principles. By
 “safe and effective,” we mean there is a large, compelling, clearly-published 
@@ -346,6 +348,21 @@ and logging, the normally hidden function of the machine is fully exposed, build
 trust. Moreover, extensive testing of both expected and
 unusual cases and complete published transparency of those test
 results is crucial to building trust.
+
+## Repairability
+
+The pandemic experiences has produced anecdotal reports of broken equipment in low-resource communities that might
+have saved lives if repairable.
+
+"Trusth through transparency" implies "Trust through testing". Respireco will design devices that 
+can be easily tested not just at their time of deployment, but throughout their lifecyle. A device
+that it easy to test is likely to be easy to reliably repair.
+
+We support the idea known as "Right to Repair", but more importantly we plan to "Design for Repairability". 
+The two taken together ensure repairability.
+
+A fully open system supports third-party testing more than closed, secretive systems. Third-party testability
+further generates trustworthiness.
 
 ## Regulatory Approval
 
