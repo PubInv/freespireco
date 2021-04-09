@@ -4,7 +4,7 @@
 
 -- Robert L. Read
 
-# Freespireco Manifesto
+## The Freespireco Manifesto
 
 A clear and present need for
 a complete, free-libre open-source, widely usable, safe and effective
@@ -35,7 +35,7 @@ regulated in many jurisdictions, and intends to support and harmonize
 with such regulation by facilitating regulatory approval in order to
 serve the health of all persons as much as possible.
 
-# The Problem
+## The Problem
 
 The COVID-19 pandemic taught us that our lives depend on a
 fragile international supply chain which cannot always adapt to
@@ -111,7 +111,7 @@ make treatment safer and more effective.
 A set of cooperating projects that support respiration may be expected
 to make respiration support cheaper and more accessible globally.
 
-# What Success Would Mean
+## What Success Would Mean
 
 Let us imagine a world in which the Freespireco Project has succeeded
 spectacularly, and another pandemic occurs that requires us as a
@@ -151,7 +151,7 @@ might prevent a given nation or community from making these devices,
 they would not be stopped by a lack of the right to do so or a lack of
 the knowledge of how to do so, which would be freely shared.
 
-# The Components of the System Ventilation Pieces
+## The Components of the System Ventilation Pieces
 
 Although not exhaustive, let us consider some of the main components
 of the Respiration Ecosystem.
@@ -210,7 +210,7 @@ variant of the Air Drive, based on bellows, being designed by the
 [PolyVent](https://gitlab.com/polyvent/polyvent) project, which intends to use VentOS and the VentMon to
 deliver a complete ventilator.
 
-## Free and Open Standards
+### Free and Open Standards
 
 Standards allow collaboration between teams of
 engineers, but even more importantly allow collaboration between
@@ -230,7 +230,7 @@ maintenance of these standards is one of the most important things
 that [Public Invention](https://www.pubinv.org/) has done and will do for the Freespireco
 project.
 
-## Oxygen Concentrators
+### Oxygen Concentrators
 
 More disease conditions require therapeutic
 oxygen than mechanical ventilation. Designs which enable firms to
@@ -261,7 +261,7 @@ concentration as:
 3. Oxygen Blenders 
 4. Precision pressure release valves
 
-## Anesthesia Machines
+### Anesthesia Machines
 
 Anesthesia machines represent an additional
 medical device which shares many companies with the Respireco system.
@@ -289,7 +289,7 @@ source designs. These include but are not limited to:
 6. Nebulizers 
 7. CO2 scrubbers
 
-# Testing, Transparency, and Trust
+## Testing, Transparency, and Trust
 
 Testing is paramount to The Freespireco Project.
 
@@ -313,7 +313,7 @@ trust.  Trust through testing. Extensive testing of both expected and
 unusual cases and complete published transparency of those test
 results is crucial to building trust.
 
-# Regulatory Approval
+## Regulatory Approval
 
 The Freespireco Project facilitates regulatory
 approval.
@@ -327,7 +327,7 @@ Developing a public commons of reusable documentation suitable for
 wholesale inclusion in such applications is a major goal of The
 Freespireco Project. 
 
-# Licensing 
+## Licensing 
 
 In order to create a free public
 commons of respirations devices that anyone can build and strongly
@@ -341,7 +341,7 @@ There is currently no free public commons of examples of application information
 bodies for approval. In order to create one, [Public Invention](https://www.pubinv.org/) has begun making the [Regulatory Sunlight Agreement](https://github.com/PubInv/RegulatorySunlight)
 which is analogous to a share-alike or reciprocal license for regulatory matter.
 
-# Patents 
+## Patents 
 
 The Freespireco Project will not seek patents. We will attempt to create a
 public commons which has maximum safety and effectiveness and ease of
@@ -350,14 +350,14 @@ patents wherever possible, and clearly delineate features where
 necessary to allow potential manufacturers to operate without fear,
 uncertainty and doubt (FUD).  
 
-# Timeline 
+## Timeline 
 
 The Freespireco Project expects
 to operate on the scale of decades, and to re-evaluate itself after
 each five years. We expect a complete respiration ecosystem to be
 saving lives within the first decade.  
 
-# Research Usage 
+## Research Usage 
 
 Of all potential
 users, medical researchers will benefit soonest from The Freespireco
@@ -388,14 +388,14 @@ Helpful Engineering, [COSMIC](https://cosmicmedical.ca/), and Open Source Medica
 Academic researchers using The Freespireco Project for their own
 research.  Makers motivated primarily by the joy of creation.
 
-# Development Process
+## Development Process
 
 The Freespireco Project will organize and govern itself using
 processes honed over the last 20 years by the free software
 community. An exemplar of these practices is “The Apache Way”
 pioneered by the Apache foundation.
 
-## Vendor Neutrality
+### Vendor Neutrality
 
 Because hardware devices are not
 free-as-in-free-lunch, they will usually be sold. Like The Apache
@@ -413,7 +413,9 @@ Software Foundation and Protocol Labs. In the future, [Public Invention](https:/
 might sell these devices to researchers and contributors to cover
 their production costs.
 
-Working with For Profit Firms The Freespireco Project is a non-profit
+### Working with For Profit Firms 
+
+The Freespireco Project is a non-profit
 project hosted by [Public Invention](https://www.pubinv.org/), a US 501(c)3 non-profit. However,
 following the policy of strict vendor neutrality, we welcome any use
 of The Freespireco Project devices, whether for-profit or not, so long
@@ -425,7 +427,7 @@ By using hardware and software designs from The Freespireco Project, a
 for-profit firm greatly lowers their research, development, and
 regulatory approval costs.
 
-## Community over Code
+### Community over Code
 
 [The Apache Way](https://www.apache.org/theapacheway/) articulates the principle:
 “Community over Code”.
@@ -439,7 +441,7 @@ integrating knowledge on regulations, medicine, and engineering.  The
 ability to successfully build a respiration ecosystem may transfer to
 other endeavors.
 
-## A Financing Observation
+### A Financing Observation
 
 Hardware projects require at least some
 volunteers to have a modicum of hardware. Writing in the 2020s, these
@@ -457,7 +459,7 @@ Freespireco Project is therefore to pay for equipment so that
 volunteers avoid personal, out-of-pocket expenses. We do not
 anticipate ever compensating volunteers directly.
 
-# How You Can Help
+## How You Can Help
 
 The Respireco Project needs your support. Like any
 project, we need encouragement and fans. Even more than software
