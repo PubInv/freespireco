@@ -349,12 +349,22 @@ trust. Moreover, extensive testing of both expected and
 unusual cases and complete published transparency of those test
 results is crucial to building trust.
 
-## Repairability
+## Repairability and Supply Chain Resillience
+
+The ability to repair a respiration support device and supply chain resillience are intertwined so 
+closely that they should not be separated.
 
 The pandemic experiences has produced anecdotal reports of broken equipment in low-resource communities that might
 have saved lives if repairable.
 
-"Trusth through transparency" implies "Trust through testing". Freespireco will design devices that 
+"Supply Chain Resillience" does not mean each nation being able to fully construct complete devices
+independently of other nations, but rather the ability to obtain crititcal parts.
+
+The basic approach of a modular, composable, free-libre open source eco-system means that 
+each part can be repaired and replaced somewhat independently. If a critical part is in short supply,
+it can be built locally, even if under normal circumstances that would be economically inefficient.
+
+"Trust through transparency" implies "Trust through testing". Freespireco will design devices that 
 can be easily tested not just at their time of deployment, but throughout their lifecyle. A device
 that it easy to test is likely to be easy to reliably repair.
 
@@ -363,6 +373,9 @@ The two taken together ensure repairability.
 
 A fully open system supports third-party testing more than closed, secretive systems. Third-party testability
 further generates trustworthiness.
+
+
+
 
 ## Regulatory Approval
 
