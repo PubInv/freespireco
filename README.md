@@ -312,6 +312,9 @@ control and analysis, medical research, and engineering testing and
 maintenance. [Public Invention](https://www.pubinv.org/) has begun this with its standards as 
 well as the PIRDS logger system and the VentDisplay software. More work
 is required, such as allowing multi-day analysis of PIRDS log files.
+
+## Minor components
+
 Although essential, there are other minor components
 needed by the respiration ecosystem that deserve free-libre open
 source designs. These include but are not limited to: 
