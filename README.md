@@ -1,6 +1,6 @@
 
 
-# The Freespireco Project: A complete, free-libre open-source, easily repairable, widely usable, safe and effective respiration ecosystem
+# The Freespireco Project: A complete, free-libre open-source, easily repairable, widely usable, safe and effective respiratory support medical device ecosystem
 
 -- Robert L. Read
 
@@ -8,7 +8,7 @@
 
 The COVID-19 pandemic has demonstrated a clear and present need for
 a complete, free-libre open-source, easily repairable, widely usable, safe and effective
-respiration ecosystem. [Public Invention](https://www.pubinv.org/) asks that you support our project to create
+respiratory support medical device ecosystem. [Public Invention](https://www.pubinv.org/) asks that you support our project to create
 such a system, to be called The Freespireco Project.
 
 By “complete ... respiration system," we mean all of the composable
