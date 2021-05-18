@@ -60,7 +60,7 @@ of a complete system of devices which can be expected to save many
 lives in the uncertain future, whether those lives are threatened by
 COVID19 or some other respiratory disease or condition.
 
-## Budget
+## Budget Motivation
 
 Robert L. Read is the founder and currently the President and Head Invention
 Coach of Public Invention, essentially acting as chief technologist,
@@ -68,7 +68,7 @@ executive director, accountant, funbdraiser, grant writer, and chief publicist.
 In order to free more time
 for technical work on the Freespireco ecosystm, Public Inveniton needs
 to hire a consistent full or part-time executive director or administrator for
- $80,000 a year.
+ $80,000 a year, adjust upward to $120,000 for taxes and benefits.
 
 At present, the President of Public Invention (Rob) is doing all
 of the accounting. Since we support many teams and have to approve
@@ -117,6 +117,28 @@ Likewise, graphic art and video production is not considered almost
 necessary for the proper publication of new device. These services
 are easily purchased on service-fee basis without a permanent staff,
 but they still cost money.
+
+## Regulatory Strategy
+
+Public Invention has studied regulatory compliance issues, which are
+critical to safety and effectiveness of medical devices. In fact,
+we have begun a legal effort (not proposed to be funded here) to
+develop a new kind of free culture agreement specifially designed for
+medical devices.
+
+More generally, we have a definite strategy for regulatory compliance:
+* Public Invention has no intention of marketing medical devices for clinical use,
+therefore it is unlikely to directly apply for FDA approval, for example.
+* However, it fully intends to support both for-profit and non-profit firms and
+NGOs in marketing devices based on our designs. Therefore we specifially intend
+to do the kind of Quality Assurance and Risk Analysis documentation on each team
+that is required to facilitate regulatory approval.
+* This process can be integrated with a SCRUM-based development methodology.
+The Head Coach of Public Invention is a highly experienced Agile team leader and
+paid consultant on Agile methodologies.
+
+Although presently it is very common to employ consultants to assure regulatory
+compliance, we believe we can do a good job without paying expensive consultants.
 
 ## Why We Do Not Seek Business Sustainability: The Frictionless Production Model
 
@@ -169,6 +191,11 @@ an invention which is not shared is without value to humanity; but
 publication for us can range from a simple GitHub repo to a full
 journal paper.
 
+The Frictionless Production Model means that must rely on grants to
+accelerate this project, as we can rely neither on recapture of future value,
+nor is this work "researchy" enough to be especially compelling to
+researchers interested primarily in academic publication.
+
 ## "Small-run" Production
 
 As devices become ready for use, we believe the strategy of moving
@@ -192,12 +219,13 @@ small runs. If we fail to obtain readiness of our prototypes for
 small-run production, this expense will not be incurred.
 
 
-## Budget
+
+## Budget Detail
 
 The Budget is therefore simple:
 | **Staff and Services** | Cost  |
 | ---------------------- | -------- |
-| Executive Director  |  $80,000 |
+| Executive Director  |  $120,000 |
 | Legal and Publication | $20,000 |
 | Graphic Art  | $10,000 |
 | Technical Writing  | $5,000 |
@@ -215,5 +243,22 @@ The Budget is therefore simple:
 | "Small Run" Project #1 (TBD) | $50,000 | 1 | |
 | Subtotal (2 successful projects) | $100,000 |
 | **Totals** | |
-|Total / annum | $299,000 |
-|Two-year total | $598,000 |
+|Total / annum | $329,000 |
+|Two-year total | $658,000 |
+
+
+## Expected Impact
+
+This grant will allow Public Invention to:
+*) Bring four important free-libre open source medical devices to small-run
+production sufficient to spark for-profit firms to consider mass produciton.
+These devices will be open to all persons and all nations, making their
+emergency deployment on a large scale possible, potentially saving
+a large number of lives.
+*) A culture and set of best practices of open-source medical devices will be
+established. By working in the light, the whole world will learn
+from our successes and mistakes. The world will be far better prepared
+for future distasters addressable by engineered devices, whether
+respiratory, medical, or not.
+*) Business opportunities will be created for both small and large businesses
+to build devices with significantly decreased research and development costs.
