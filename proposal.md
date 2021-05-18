@@ -168,6 +168,7 @@ journal paper.
 
 The Budget is therefore simple:
 | **Staff and Services** | Cost  |
+| ---------------------- | -------- |
 | Executive Director  |  $80,000 |
 | Legal and Publication | $20,000 |
 | Graphic Art  | $10,000 |
