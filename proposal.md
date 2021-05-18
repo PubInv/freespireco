@@ -40,10 +40,18 @@ faster progress across a full spectrum of medical devices.
 
 Robert L. Read is the founder and currently the President and Head Invention
 Coach of Public Invention, essentially acting as chief technologist,
-executive director, and chief publicist. In order to free more time
+executive director, accountant, funbdraiser, grant writer, and chief publicist.
+In order to free more time
 for technical work on the Freespireco ecosystm, Public Inveniton needs
 to hire a consistent full or part-time executive director or administrator for
 between $40,000 to $80,000 a year.
+
+At present, the President of Public Invention (Rob) is doing all
+of the accounting. Since we support many teams and have to approve
+and classify every expense, and teams tend to buy many small electromechanical
+parts, this is a significant labor burden that could be off-loaded onto
+other staff. A professional fundraiser could operate more efficiently
+than the Head Invention Coach.
 
 Public Invention has learned through experience with
 the PolyVent team and "the Ox" team that modest financial supports
@@ -53,8 +61,14 @@ equipment and the ability to create iterative prototypes.
 
 Roughly speaking, $10,000 per year per project is enough for an
 all-volunteer team to make good progress on an electromechanical device.
+Travel and shipping costs are relatively high for Public Invention,
+because are teams are fundamentally distributed. In some occasions, such
+as major events and conferences, we need the entire team to gather
+in a co-location for physical assmebly, testing, and team-building.
+We estimate these costs at $4,000 per team.
 We are currently proposing at least six such devices, so we need
-$60,000/year for basic prototyping.
+6 * $14,000/year = $84,000/year for basic prototyping.
+
 
 As devices become ready for use, we believe the strategy of moving
 to "small-run production" of protypes, on the scale of 10s rather than 100s,
@@ -68,6 +82,35 @@ been moderately effective for the VentMon.
 If we assume two of our six main devices will reach "small-run" readiness
 in the first year, we will need about $100,000 more to produce these
 small runs.
+
+The Budget is therefore simple:
+| Item  | Cost  |
+|---|---|
+| Executive Director  |  $80,000 |
+| Legal and Publication | $20,000 |
+|---|---|
+| Subtotal | $100,000 |
+|---|---|
+| VentMon  | $14,000  |
+| The Ox  | $14,000  |
+| PolyVent  | $14,000  |
+| GUI System | $14,000 |
+| Alarm System | $14,000 |
+| PAPR | $14,000 |
+|---|---|
+| Subtotal (6 projects) | $84,000 |
+|---|---|
+| Item  | Cost  |
+|---|---|
+| "Small Run" Project #1 (TBD) | $50,000 | 1 | |
+|---|---|
+| Subtotal (2 successful projects) | $100,000 |
+|---|---|
+|---|---|
+|Total / annum | $284,000 |
+|Two-year total | $568,000 |
+|---|---|
+
 
 ## Legal and Publication Costs
 
@@ -94,9 +137,11 @@ necessary for the proper publication of new device. These services
 are easily purchased on service-fee basis without a permanent staff,
 but they still cost money.
 
-##
+## Accounting Services
 
-## Why We Do Not Seek Business Sustainability: The Frictionless Produciton Model
+
+
+## Why We Do Not Seek Business Sustainability: The Frictionless Production Model
 
 Many granting agencies seek to seed business which can eventually be
 self-sustaining. This is a prudent and high-impact approach to philanthropy,
@@ -127,12 +172,22 @@ one firm to deploy our products, we want to freely share with other firms.
 We would have a conflict of interest if we were in a business relationship
 with one firm and not another.
 
-One of the advantages of the "Fricetionless Production Model"
+One of the advantages of the "Frictionless Production Model"
 is that it does not advantage firms that are close to us or similar to us.
 For example, we want American, English-speaking firms to make our
 products; but we do not wish to give them an advantage over other firms.
 
 Many Universities and other non-profits use the model of attempting to
 capture a share of future value as a funding mechanism. We believe it
-is better that Public Invention serve as an outlet for a different
+is better that Public Invention not compete with Universities and
+serve as an outlet for a different
 approach, The Frictional Production Model.
+
+Similarly, although every Public Invention project aims for an open-access
+peer-reviewed
+publication and in general we start the paper on the first day of the project,
+publications are of little personal value to us, unlikely professors
+seeking promotions. Publication is essential to Public Invention because
+an invention which is not shared is without value to humanity; but
+publication for us can range from a simple GitHub repo to a full
+journal paper.
