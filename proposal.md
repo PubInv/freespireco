@@ -24,7 +24,7 @@ when invited by an appropriate funding agency.
 
 As of May, 2021, Public Invention has done a lot with about $100,000 in funding,
 $40,000 of which came in two "flash" grants at the beginning of the pandemic,
-and the rest of which came from a small set of donors. Some large donors
+and the rest of which came from a small set of donors. Some generous donors
 were anonymous. This includes developing and actually manufacturing and
 giving away free of charge over 30 VentMon
 devices, which contain about $500 in parts, which have been used
@@ -36,6 +36,30 @@ We can probably continue to make progress on this project without receiving
 a larger grant. However, a larger grant will allow us to make much
 faster progress across a full spectrum of medical devices.
 
+## Why Public Invention?
+
+Public Invention has been a major and connecting player in the
+humanitarin engineering non-profit space since the pandemic began.
+Through personal connections and the three public conferences which
+we hosted, we obtained a central position in the respiratory support
+sub-field. We have strong connections to Helpful Engineering,
+Open Source Medical Supplies, and COSMIC.
+Our "COVID19-Vent-list" project was a visible connector between the
+many disparate ventilation projects.
+
+We have a proven track record of recruiting and managing small
+technical projects which produce a high impact. Chief among these
+projects has been the VentMon, which has been used be many other projects.
+Rather than competing with other teams, we have supported them
+with one of the few devices which has actually been shipped and used
+(though it is a research and development tool, not a clinical tool.)
+This work has resulted in significant academic and popular-press publications.
+
+Finally, Public Invention is articulating a coordinated vision
+of a complete system of devices which can be expected to save many
+lives in the uncertain future, whether those lives are threatened by
+COVID19 or some other respiratory disease or condition.
+
 ## Budget
 
 Robert L. Read is the founder and currently the President and Head Invention
@@ -44,7 +68,7 @@ executive director, accountant, funbdraiser, grant writer, and chief publicist.
 In order to free more time
 for technical work on the Freespireco ecosystm, Public Inveniton needs
 to hire a consistent full or part-time executive director or administrator for
-between $40,000 to $80,000 a year.
+ $80,000 a year.
 
 At present, the President of Public Invention (Rob) is doing all
 of the accounting. Since we support many teams and have to approve
@@ -68,21 +92,6 @@ in a co-location for physical assmebly, testing, and team-building.
 We estimate these costs at $4,000 per team.
 We are currently proposing at least six such devices, so we need
 6 * $14,000/year = $84,000/year for basic prototyping.
-
-
-As devices become ready for use, we believe the strategy of moving
-to "small-run production" of protypes, on the scale of 10s rather than 100s,
-allows for both hiqh-quality testing and compelling demonstrations
-of the value of the technology. As project reach "small-run production"
-readiness, additional money is required, which we estimate at $50,000 per
-project. "Small-run production" devices do not take on regulatory approval,
-but are aimed at research and testing institutions. This strategy has
-been moderately effective for the VentMon.
-
-If we assume two of our six main devices will reach "small-run" readiness
-in the first year, we will need about $100,000 more to produce these
-small runs.
-
 
 ## Legal and Publication Costs
 
@@ -108,10 +117,6 @@ Likewise, graphic art and video production is not considered almost
 necessary for the proper publication of new device. These services
 are easily purchased on service-fee basis without a permanent staff,
 but they still cost money.
-
-## Accounting Services
-
-
 
 ## Why We Do Not Seek Business Sustainability: The Frictionless Production Model
 
@@ -163,6 +168,29 @@ seeking promotions. Publication is essential to Public Invention because
 an invention which is not shared is without value to humanity; but
 publication for us can range from a simple GitHub repo to a full
 journal paper.
+
+## "Small-run" Production
+
+As devices become ready for use, we believe the strategy of moving
+to "small-run production" of protypes, on the scale of 10s rather than 100s,
+allows for both hiqh-quality testing and compelling demonstrations
+of the value of the technology. As project reach "small-run production"
+readiness, additional money is required, which we estimate at $50,000 per
+project. "Small-run production" devices do not take on regulatory approval,
+but are aimed at research and testing institutions. This strategy has
+been moderately effective for the VentMon, which produced and
+gave away 30 units.
+
+These small-run machines do not have to be given away gratis, but
+at such small scale of production and in order to support the non-profit
+and research community, we do not expect to recoup much of the
+costs of these production runs.
+
+If we assume two of our six main devices will reach "small-run" readiness
+in the first year, we will need about $100,000 more to produce these
+small runs. If we fail to obtain readiness of our prototypes for
+small-run production, this expense will not be incurred.
+
 
 ## Budget
 
