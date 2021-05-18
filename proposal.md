@@ -83,34 +83,6 @@ If we assume two of our six main devices will reach "small-run" readiness
 in the first year, we will need about $100,000 more to produce these
 small runs.
 
-The Budget is therefore simple:
-| Item  | Cost  |
-|---|---|
-| Executive Director  |  $80,000 |
-| Legal and Publication | $20,000 |
-|---|---|
-| Subtotal | $100,000 |
-|---|---|
-| VentMon  | $14,000  |
-| The Ox  | $14,000  |
-| PolyVent  | $14,000  |
-| GUI System | $14,000 |
-| Alarm System | $14,000 |
-| PAPR | $14,000 |
-|---|---|
-| Subtotal (6 projects) | $84,000 |
-|---|---|
-| Item  | Cost  |
-|---|---|
-| "Small Run" Project #1 (TBD) | $50,000 | 1 | |
-|---|---|
-| Subtotal (2 successful projects) | $100,000 |
-|---|---|
-|---|---|
-|Total / annum | $284,000 |
-|Two-year total | $568,000 |
-|---|---|
-
 
 ## Legal and Publication Costs
 
@@ -191,3 +163,34 @@ seeking promotions. Publication is essential to Public Invention because
 an invention which is not shared is without value to humanity; but
 publication for us can range from a simple GitHub repo to a full
 journal paper.
+
+## Budget
+
+The Budget is therefore simple:
+| *Staff and Services* | Cost  |
+|-----------|-----------|
+| Executive Director  |  $80,000 |
+| Legal and Publication | $20,000 |
+|-----------|-----------|
+| Subtotal | $100,000 |
+|-----------|-----------|
+| *Projects*  |   |
+| VentMon  | $14,000  |
+| The Ox  | $14,000  |
+| PolyVent  | $14,000  |
+| GUI System | $14,000 |
+| Alarm System | $14,000 |
+| PAPR | $14,000 |
+|-----------|-----------|
+| Subtotal (6 projects) | $84,000 |
+|-----------|-----------|
+| *"Small Run" Projects*  | Cost  |
+|-----------|-----------|
+| "Small Run" Project #1 (TBD) | $50,000 | 1 | |
+| "Small Run" Project #1 (TBD) | $50,000 | 1 | |
+|-----------|-----------|
+| Subtotal (2 successful projects) | $100,000 |
+|-----------|-----------|
+| *Totals* |-----------|
+|Total / annum | $284,000 |
+|Two-year total | $568,000 |
