@@ -171,6 +171,8 @@ The Budget is therefore simple:
 |-----------|-----------|
 | Executive Director  |  $80,000 |
 | Legal and Publication | $20,000 |
+| Graphic Art  | $10,000 |
+| Technical Writing  | $5,000 |
 |-----------|-----------|
 | Subtotal | $100,000 |
 |-----------|-----------|
@@ -184,13 +186,13 @@ The Budget is therefore simple:
 |-----------|-----------|
 | Subtotal (6 projects) | $84,000 |
 |-----------|-----------|
-| **"Small Run" Projects**  | Cost  |
+| **"Small Run" Projects** |  |
 |-----------|-----------|
 | "Small Run" Project #1 (TBD) | $50,000 | 1 | |
 | "Small Run" Project #1 (TBD) | $50,000 | 1 | |
 |-----------|-----------|
 | Subtotal (2 successful projects) | $100,000 |
 |-----------|-----------|
-| **Totals** |-----------|
+| **Totals** | |
 |Total / annum | $284,000 |
 |Two-year total | $568,000 |
