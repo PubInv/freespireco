@@ -172,7 +172,7 @@ The Budget is therefore simple:
 | Legal and Publication | $20,000 |
 | Graphic Art  | $10,000 |
 | Technical Writing  | $5,000 |
-| Subtotal | $100,000 |
+| Subtotal | $115,000 |
 | *Projects*  |   |
 | VentMon  | $14,000  |
 | The Ox  | $14,000  |
@@ -186,5 +186,5 @@ The Budget is therefore simple:
 | "Small Run" Project #1 (TBD) | $50,000 | 1 | |
 | Subtotal (2 successful projects) | $100,000 |
 | **Totals** | |
-|Total / annum | $284,000 |
-|Two-year total | $568,000 |
+|Total / annum | $299,000 |
+|Two-year total | $598,000 |
