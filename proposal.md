@@ -22,9 +22,10 @@ when invited by an appropriate funding agency.
 
 ## Why A Larger Grant?
 
-As of May, 2021, Public Invention has done a lot with about $100,000 in funding,
+In the year 2020,
+Public Invention has done a lot with about $100,000 in funding,
 $40,000 of which came in two "flash" grants at the beginning of the pandemic,
-and the rest of which came from a small set of donors. Some generous donors
+and the rest of which came from a small set of generous donors, some of whom
 were anonymous. This includes developing and actually manufacturing and
 giving away free of charge over 30 VentMon
 devices, which contain about $500 in parts, which have been used
@@ -42,9 +43,9 @@ Public Invention has been a major and connecting player in the
 humanitarin engineering non-profit space since the pandemic began.
 Through personal connections and the three public conferences which
 we hosted, we obtained a central position in the respiratory support
-sub-field. We have strong connections to Helpful Engineering,
-Open Source Medical Supplies, and COSMIC.
-Our "COVID19-Vent-list" project was a visible connector between the
+sub-field. We have strong connections to [Helpful](https://helpfulengineering.org/),
+[Open Source Medical Supplies](https://opensourcemedicalsupplies.org/), and [COSMIC](https://cosmicmedical.ca/).
+Our [COVID19-Vent-list](https://docs.google.com/spreadsheets/d/1inYw5H4RiL0AC_J9vPWzJxXCdlkMLPBRdPgEVKF8DZw/edit?usp=sharing) project was a visible connector between the
 many disparate ventilation projects.
 
 We have a proven track record of recruiting and managing small
@@ -55,7 +56,20 @@ with one of the few devices which has actually been shipped and used
 (though it is a research and development tool, not a clinical tool.)
 This work has resulted in significant academic and popular-press publications.
 
-Finally, Public Invention is articulating a coordinated vision
+1. [VentMon: An open source inline ventilator tester and monitor](https://www.sciencedirect.com/science/article/pii/S2468067221000249), HardwareX, Volume 9, 2021.
+1. [The Pandemic-inspired Case for an Open-Source Medical Hardware Ecosystem](https://makezine.com/2020/09/21/the-pandemic-inspired-case-for-an-open-source-medical-hardware-ecosystem/), Make Magazine, Sept. 21st, 2020.
+1. [Plan C Live: Developing an Open Source Ecosystem for Medical Hardware](https://makezine.com/2020/09/22/plan-c-live-opensource-ecosystem-for-medical-hardware/), Make Community Maker News Video chat.
+1. [Humanitarian Engineering: The Open-Source Pandemic Response](https://hackernoon.com/humanitarian-engineering-the-open-source-pandemic-response-r93g3349)
+
+Public Invention does not pay volunteers for intellectual work.
+(We sometimes pay people for manual labor, such as assemblying
+printed circuit boards.) Robert L. Read, the Head Invention Coach,
+works full-time without compensation. By paying mostly for equipment,
+supplies, and essential services, Public Invention stretches every dollar
+to provide a high impact return on each donation dollar.
+
+Finally, Public Invention is articulating a
+[coordinated vision](https://github.com/PubInv/freespireco#readme
 of a complete system of devices which can be expected to save many
 lives in the uncertain future, whether those lives are threatened by
 COVID19 or some other respiratory disease or condition.
@@ -70,7 +84,7 @@ for technical work on the Freespireco ecosystm, Public Inveniton needs
 to hire a consistent full or part-time executive director or administrator for
  $80,000 a year, adjust upward to $120,000 for taxes and benefits.
 
-At present, the President of Public Invention (Rob) is doing all
+At present, the President of Public Invention (Robert L. Read) is doing all
 of the accounting. Since we support many teams and have to approve
 and classify every expense, and teams tend to buy many small electromechanical
 parts, this is a significant labor burden that could be off-loaded onto
@@ -83,15 +97,15 @@ for material and equipment expenses is highly motivating to engineering teams.
 Roughly speaking, each device/team needs a modest amount of
 equipment and the ability to create iterative prototypes.
 
-Roughly speaking, $10,000 per year per project is enough for an
+Roughly speaking, $6,000 per year per project is enough for an
 all-volunteer team to make good progress on an electromechanical device.
 Travel and shipping costs are relatively high for Public Invention,
 because are teams are fundamentally distributed. In some occasions, such
 as major events and conferences, we need the entire team to gather
 in a co-location for physical assmebly, testing, and team-building.
-We estimate these costs at $4,000 per team.
+We estimate these costs at $2,000 per team.
 We are currently proposing at least six such devices, so we need
-6 * $14,000/year = $84,000/year for basic prototyping.
+6 * $8,000/year = $48,000/year for basic prototyping.
 
 ## Legal and Publication Costs
 
@@ -123,7 +137,7 @@ but they still cost money.
 Public Invention has studied regulatory compliance issues, which are
 critical to safety and effectiveness of medical devices. In fact,
 we have begun a legal effort (not proposed to be funded here) to
-develop a new kind of free culture agreement specifially designed for
+develop a new kind of [free culture agreement](https://github.com/PubInv/RegulatorySunlight) specifially designed for
 medical devices.
 
 More generally, we have a definite strategy for regulatory compliance:
@@ -146,7 +160,7 @@ Many granting agencies seek to seed business which can eventually be
 self-sustaining. This is a prudent and high-impact approach to philanthropy,
 but we reject is as a model for Public Invention.
 
-In the first place, Public Invention is fiercely dedicated to free-libre
+In the first place, Public Invention is [fiercely dedicated](https://github.com/PubInv/PubInv-License-Guidelines) to free-libre
 open source hardware development and eschews patent monopolies.
 This removes one of the supposed levers of diverting future profits
 to a non-profit. We want to encourage small and large businesses to
@@ -196,13 +210,21 @@ accelerate this project, as we can rely neither on recapture of future value,
 nor is this work "researchy" enough to be especially compelling to
 researchers interested primarily in academic publication.
 
+However, the Frictionless Production Model can develop devices
+which would never be developed if motivated purely by a profit motive.
+An example of such a device is an extremely rugged, easy-to-build
+oxygen concentrator that emphasizes repairability.
+Such a device is acutely needed at present in low-income countries,
+but the demand may fade,
+making it difficult for a for-profit business to justify development costs.
+
 ## "Small-run" Production
 
 As devices become ready for use, we believe the strategy of moving
 to "small-run production" of protypes, on the scale of 10s rather than 100s,
 allows for both hiqh-quality testing and compelling demonstrations
 of the value of the technology. As project reach "small-run production"
-readiness, additional money is required, which we estimate at $50,000 per
+readiness, additional money is required, which we estimate at $30,000 per
 project. "Small-run production" devices do not take on regulatory approval,
 but are aimed at research and testing institutions. This strategy has
 been moderately effective for the VentMon, which produced and
@@ -231,21 +253,20 @@ The Budget is therefore simple:
 | Technical Writing  | $5,000 |
 | Subtotal | $115,000 |
 | *Projects*  |   |
-| VentMon  | $14,000  |
-| The Ox  | $14,000  |
-| PolyVent  | $14,000  |
-| GUI System | $14,000 |
-| Alarm System | $14,000 |
-| PAPR | $14,000 |
-| Subtotal (6 projects) | $84,000 |
+| [VentMon](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor)  | $8,000  |
+| [The Ox](https://github.com/PubInv/Ox)  | $8,000  |
+| [PolyVent](https://gitlab.com/polyvent/polyvent)  | $8,000  |
+| [GUI System](https://github.com/PubInv/vent-display) | $8,000 |
+| Alarm System | $8,000 |
+| PAPR | $8,000 |
+| Subtotal (6 projects) | $48,000 |
 | **"Small Run" Projects** |  |
-| "Small Run" Project #1 (TBD) | $50,000 | 1 | |
-| "Small Run" Project #1 (TBD) | $50,000 | 1 | |
-| Subtotal (2 successful projects) | $100,000 |
+| "Small Run" Project #1 (TBD) | $30,000 | 1 | |
+| "Small Run" Project #1 (TBD) | $30,000 | 1 | |
+| Subtotal (2 successful projects) | $60,000 |
 | **Totals** | |
-|Total / annum | $329,000 |
-|Two-year total | $658,000 |
-
+|Total / annum | $227,000 |
+|Two-year total | $454,000 |
 
 ## Expected Impact
 
@@ -260,5 +281,8 @@ established. By working in the light, the whole world will learn
 from our successes and mistakes. The world will be far better prepared
 for future distasters addressable by engineered devices, whether
 respiratory, medical, or not.
+*) Tested designs of biomedical devices will be placed a public commons
+for devices which may have insufficient profit potential to be developed
+by for-profit businesses.
 *) Business opportunities will be created for both small and large businesses
 to build devices with significantly decreased research and development costs.
