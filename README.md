@@ -15,14 +15,14 @@ By “complete ... respiration system," we mean all of the composable
 components needed to medically and therapeutically assist people
 having trouble breathing for whatever reason. By “free-libre
 open-source,” we mean that ordinary people with ordinary skills
-can construct each component in the art of making electromechanical devices 
+can construct each component in the art of making electromechanical devices
 with the help of clear and already-published designs,
-plans, instructions, and regulatory documentation free for all to use and share. 
-By "easily repairable" we mean that the owners of equipment have both the legal right 
+plans, instructions, and regulatory documentation free for all to use and share.
+By "easily repairable" we mean that the owners of equipment have both the legal right
 and technical information to make safe repairs.
 Furthermore, those plans can be legally improved upon, so long
 as those improvements are shared under the same principles. By
-“safe and effective,” we mean there is a large, compelling, clearly-published 
+“safe and effective,” we mean there is a large, compelling, clearly-published
 body of evidence that prove the designs are safe and effective. By
 “widely usable,” we mean that makers have put in significant effort to ensure
 these devices are usable in low-resource, non-mainstream, or high-stress
@@ -129,7 +129,7 @@ devices is relatively easy because of the transparent nature of the
 design history of these devices. Because they are developed in an
 ecosystem, it is easy to understand how these devices work together
 when they need to. Innumerable business opportunities to manufacture and market
-these devices widely are created. 
+these devices widely are created.
 
 Because they are part of a free and transparent ecosystem, quickly
 training people to use the devices is relatively easy. Training
@@ -145,7 +145,7 @@ participate in device manufacturing, and more devices are
 delivered. An enormous amount of money may change hands to supply the
 acute need, which might not have been possible at all before. There
 may in fact be more economic activity in making these devices in
-response to a crisis than if Resprieco had not created them, although
+response to a crisis than if Freespireco had not created them, although
 there will be less price gouging. But the overall net effect is
 measured in people: lives are saved because of Freespireco, and that
 is the main goal.
@@ -163,16 +163,16 @@ of organizing large efforts to create free-libre open source medical devices.
 Without Freespireco, no nation will be completely legally empowered to meet
 shortages in respiration equipment.
 
-Without Freespireco, the tremendous humanitarian effort of 2020 to address 
+Without Freespireco, the tremendous humanitarian effort of 2020 to address
 ventilator shortages will be largely lost.
 
 Without Freespireco, research may continue on respiration support devices
 but it will be harder for teams to obtain, synergize, and reuse through sharing knowledge
 and technology.
 
-Without Freespireco, many business opportunities would be closed. 
-Large businesses will have to duplicate research effort rather than compose 
-existing systems into markerable devices. Small businesses will face high
+Without Freespireco, many business opportunities would be closed.
+Large businesses will have to duplicate research effort rather than compose
+existing systems into marketable devices. Small businesses will face high
 barriers to entry in designing and obtaining regulatory approval for devices.
 
 ## The Components of the System Ventilation Pieces
@@ -214,25 +214,25 @@ nonprofits.
 
 So in terms of medical devices, The Freespireco Project plans to
 develop designs for six different but related kinds of devices:
-1. An invasive ventilator, 
-2. An non-invasive ventilator, 
-3. A transport ventilator, 
-4. A BPAP machine, 
-5. A CPAP machine, 
+1. An invasive ventilator,
+2. An non-invasive ventilator,
+3. A transport ventilator,
+4. A BPAP machine,
+5. A CPAP machine,
 6. An anesthesia machine, and
-7. A PAPR.  
-However, it will do so by making four cooperating modules: 
-1. An Air Drive, 
-2. A Sense Module, 
-3. A Controller, and 
-4. A User Interface.  
+7. A PAPR.
+However, it will do so by making four cooperating modules:
+1. An Air Drive,
+2. A Sense Module,
+3. A Controller, and
+4. A User Interface.
 These modules will be sufficiently configurable to support use in any of the
 six respiration support machines.
 
 ![VentMonT0 4](https://user-images.githubusercontent.com/5296671/114179068-25eadd00-9904-11eb-837c-8f127a44ca7b.JPG)
 
 [Public Invention](https://www.pubinv.org/) has already made the Sense Module, in the form of the
-free-libre [VentMon T0.4 device](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor), 
+free-libre [VentMon T0.4 device](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor),
 of which 25 have been distributed to
 teams around the world free of charge. [Helpful Engineering](https://helpfulengineering.org/) is making
 the controller in the form of the [VentOS](https://gitlab.com/project-ventos/ventos) open-source ventilation
@@ -241,7 +241,7 @@ variant of the Air Drive, based on bellows, being designed by the
 [PolyVent](https://gitlab.com/polyvent/polyvent) project, which intends to use VentOS and the VentMon to
 deliver a complete ventilator.
 
-![Reponsibilities and requirements](https://user-images.githubusercontent.com/5296671/114179327-72361d00-9904-11eb-8542-834aec0202b0.png)
+![Responsibilities and requirements](https://user-images.githubusercontent.com/5296671/114179327-72361d00-9904-11eb-8542-834aec0202b0.png)
 
 
 ### Free and Open Standards
@@ -272,7 +272,7 @@ project.
 More disease conditions require therapeutic
 oxygen than mechanical ventilation. Designs which enable firms to
 provide safe, effective, affordable oxygen concentrators ubiquitously
-across the world would be enormously beneficial.[Public Invention](https://www.pubinv.org/) 
+across the world would be enormously beneficial.[Public Invention](https://www.pubinv.org/)
 has begun a free-libre opens source oxygen concentrator called [the Ox](https://github.com/PubInv/Ox)
 
 The Sense Module (such as the VentMon) needed for ventilators is very
@@ -292,16 +292,16 @@ of the machines in practice by coordinating the development teams and
 their testing is very useful.
 
 We can enumerate independent composable of components relating to oxygen
-concentration as: 
-1. Pressure Swing Adsorption chambers 
-2. Dryers Filters 
-3. Oxygen Blenders 
+concentration as:
+1. Pressure Swing Adsorption chambers
+2. Dryers Filters
+3. Oxygen Blenders
 4. Precision pressure release valves
 
 ### Anesthesia Machines
 
 Anesthesia machines represent an additional
-medical device which shares many companies with the Freespireco system. 
+medical device which shares many companies with the Freespireco system.
 The major components of the respiration ecosystem generally
 have microcontrollers and thus, software. VentOS is an important
 beginning of this software which has been developed in a disciplined
@@ -309,7 +309,7 @@ way that runs inside the devices themselves.
 
 However, there are many functions outside the devices for clinical
 control and analysis, medical research, and engineering testing and
-maintenance. [Public Invention](https://www.pubinv.org/) has begun this with its standards as 
+maintenance. [Public Invention](https://www.pubinv.org/) has begun this with its standards as
 well as the PIRDS logger system and the VentDisplay software. More work
 is required, such as allowing multi-day analysis of PIRDS log files.
 
@@ -317,16 +317,16 @@ is required, such as allowing multi-day analysis of PIRDS log files.
 
 Although essential, there are other minor components
 needed by the respiration ecosystem that deserve free-libre open
-source designs. These include but are not limited to: 
+source designs. These include but are not limited to:
 1. [Patient Inflating Valves](https://github.com/PubInv/patient-inflating-valve)
-1. One-way check valves 
-1. PEEP valves 
-1. Emergency pop-off valves 
-2. Sanitizers 
-3. Heaters 
-4. Humidifiers 
-5. Dryers 
-6. Nebulizers 
+1. One-way check valves
+1. PEEP valves
+1. Emergency pop-off valves
+2. Sanitizers
+3. Heaters
+4. Humidifiers
+5. Dryers
+6. Nebulizers
 7. CO2 scrubbers
 
 ## Testing, Transparency, and Trust
@@ -346,32 +346,38 @@ Likewise, The Freespireco Project will develop special test equipment
 components. Nevertheless, test equipment is of equal or greater
 importance than the devices being tested. We take trust through transparency
 as a basic principle. Code which can be freely studied and
-highly instrumented machines provide trustworthy-ness. By using extensive instrumentation
+highly instrumented machines provide trustworthiness. By using extensive instrumentation
 and logging, the normally hidden function of the machine is fully exposed, building
 trust. Moreover, extensive testing of both expected and
 unusual cases and complete published transparency of those test
 results is crucial to building trust.
 
-## Repairability and Supply Chain Resillience
+## Repairability and Supply Chain Resilience
 
-The ability to repair a respiration support device and supply chain resillience are intertwined so 
+The ability to repair a respiration support device and supply chain resilience are intertwined so
 closely that they should not be separated.
 
 The pandemic experiences has produced anecdotal reports of broken equipment in low-resource communities that might
 have saved lives if repairable.
 
-"Supply Chain Resillience" does not mean each nation being able to fully construct complete devices
-independently of other nations, but rather the ability to obtain crititcal parts.
+"Supply Chain Resilience" does not mean each nation being able
+to fully construct complete devices
+independently of other nations, but rather the ability to obtain critical parts.
 
-The basic approach of a modular, composable, free-libre open source eco-system means that 
-each part can be repaired and replaced somewhat independently. If a critical part is in short supply,
+The basic approach of a modular, composable, free-libre open
+source eco-system means that
+each part can be repaired and replaced somewhat independently.
+If a critical part is in short supply,
 it can be built locally, even if under normal circumstances that would be economically inefficient.
 
-"Trust through transparency" implies "Trust through testing". Freespireco will design devices that 
-can be easily tested not just at their time of deployment, but throughout their lifecyle. A device
+"Trust through transparency" implies "Trust through testing".
+Freespireco will design devices that
+can be easily tested not just at their time of deployment,
+but throughout their lifecycle. A device
 that it easy to test is likely to be easy to reliably repair.
 
-We support the idea known as "Right to Repair", but more importantly we plan to "Design for Repairability". 
+We support the idea known as "Right to Repair", but more importantly we plan
+to "Design for Repairability".
 The two taken together ensure repairability.
 
 A fully open system supports third-party testing more than closed, secretive systems. Third-party testability
@@ -396,9 +402,9 @@ approval by bodies such as the FDA.
 
 Developing a public commons of reusable documentation suitable for
 wholesale inclusion in such applications is a major goal of The
-Freespireco Project. 
+Freespireco Project.
 
-## Licensing 
+## Licensing
 
 In order to create a free public
 commons of respirations devices that anyone can build and that strongly
@@ -412,23 +418,23 @@ There is currently no free public commons that provides examples of application 
 bodies for approval. In order to create one, [Public Invention](https://www.pubinv.org/) has begun making the [Regulatory Sunlight Agreement](https://github.com/PubInv/RegulatorySunlight)
 which is analogous to a share-alike or reciprocal license for regulatory matter.
 
-## Patents 
+## Patents
 
 The Freespireco Project will not seek patents. We will attempt to create a
 public commons which has maximum safety and effectiveness and ease of
 use, manufacture, and deployment. Therefore, we will avoid infringing
 patents wherever possible, and where necessary, clearly delineate features
 to allow potential manufacturers to operate without fear,
-uncertainty, and doubt (FUD).  
+uncertainty, and doubt (FUD).
 
-## Timeline 
+## Timeline
 
 The Freespireco Project expects
 to operate on the scale of decades, and to re-evaluate itself after
 each five years. We expect a complete respiration ecosystem to be
-saving lives within the first decade.  
+saving lives within the first decade.
 
-## Research Usage 
+## Research Usage
 
 Of all potential
 users, medical researchers will benefit soonest from The Freespireco
@@ -439,7 +445,7 @@ transparency. Researchers will also benefit from our emphasis on
 automated testing, extensive instrumentation, and complete
 documentation.
 
-## Likely Contributors 
+## Likely Contributors
 
 Experience has shown that it is
 important to lower the barriers to entry for any contributor in order
@@ -458,11 +464,11 @@ the project relatively easily.
 The most likely contributors to The Freespireco Project will be:
 1. Humanitarian engineers, such as the tens of thousands that have joined
 the Slack channels of non-profits in 2020 such as [Public Invention](https://www.pubinv.org/),
-[Helpful Engineering](https://helpfulengineering.org/), [COSMIC](https://cosmicmedical.ca/), 
+[Helpful Engineering](https://helpfulengineering.org/), [COSMIC](https://cosmicmedical.ca/),
 and [Open Source Medical Supplies](https://opensourcemedicalsupplies.org/).
 Public Invention has strong connections to these organizations.
 2. Academic researchers using The Freespireco Project for their own
-research.  
+research.
 3. Makers motivated primarily by the joy of creation.
 
 
@@ -482,7 +488,7 @@ Foundation, The Freespireco Project will maintain strict vendor
 neutrality. The Freespireco Project itself will not distribute medical
 devices, but empower other organizations to do so. The Freespireco
 Project may from time to time sell devices not intended to be used as
-medical devices to humanitarian engineers, researchers, and makers, as it often saves time and money to 
+medical devices to humanitarian engineers, researchers, and makers, as it often saves time and money to
 produce a small manufacturing run of a few tens of machines as opposed to having each
 party make their own. For example, [Public Invention](https://www.pubinv.org/) has made two
 production runs of the VentMon Monitor/Tester which it gave away
@@ -491,7 +497,7 @@ Software Foundation and Protocol Labs. In the future, [Public Invention](https:/
 might sell these devices to researchers and contributors to cover
 their production costs.
 
-### Working with For Profit Firms 
+### Working with For Profit Firms
 
 The Freespireco Project is a non-profit
 project hosted by [Public Invention](https://www.pubinv.org/), a US 501(c)3 non-profit. However,
@@ -548,18 +554,3 @@ inventors, we need project managers, medical experts, regulatory
 experts, technical writers and graphic artists.
 
 But the easiest way to help is by making a [donation](https://www.pubinv.org/donate/).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
