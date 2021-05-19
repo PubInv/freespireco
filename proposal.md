@@ -92,7 +92,9 @@ other staff. A professional fundraiser could operate more efficiently
 than the Head Invention Coach.
 
 Public Invention has learned through experience with
-the PolyVent team and "the Ox" team that modest financial supports
+the [PolyVent](https://gitlab.com/polyvent/polyvent) team and
+[The Ox](https://github.com/PubInv/Ox)
+team that modest financial supports
 for material and equipment expenses is highly motivating to engineering teams.
 Roughly speaking, each device/team needs a modest amount of
 equipment and the ability to create iterative prototypes.
@@ -116,7 +118,7 @@ by being fully cognizant of the demands of regulatory approval.
 Therefore, we need a budget for regulatory consultation which is outside
 our current expertise.
 
-Similarly, Public Invention works "In the light." This means that
+Similarly, Public Invention works "[In the light](https://www.pubinv.org/mission/)." This means that
 we publish everything.  At one level, this simply means that code and
 design files are placed in GitHub repos with appropriate licenses.
 However, to be well-published more is required.
@@ -271,18 +273,18 @@ The Budget is therefore simple:
 ## Expected Impact
 
 This grant will allow Public Invention to:
-*) Bring four important free-libre open source medical devices to small-run
+* Bring four important free-libre open source medical devices to small-run
 production sufficient to spark for-profit firms to consider mass produciton.
 These devices will be open to all persons and all nations, making their
 emergency deployment on a large scale possible, potentially saving
 a large number of lives.
-*) A culture and set of best practices of open-source medical devices will be
+* A culture and set of best practices of open-source medical devices will be
 established. By working in the light, the whole world will learn
 from our successes and mistakes. The world will be far better prepared
 for future distasters addressable by engineered devices, whether
 respiratory, medical, or not.
-*) Tested designs of biomedical devices will be placed a public commons
+* Tested designs of biomedical devices will be placed a public commons
 for devices which may have insufficient profit potential to be developed
 by for-profit businesses.
-*) Business opportunities will be created for both small and large businesses
+* Business opportunities will be created for both small and large businesses
 to build devices with significantly decreased research and development costs.
