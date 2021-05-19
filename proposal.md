@@ -5,7 +5,7 @@ invents "In the public, for the Public."
 
 ## Introduction
 
-The [Freespirco Project](https://github.com/PubInv/freespireco#readme) is project founded in April of 2021 by Public Invention,
+The [Freespirco Project](https://github.com/PubInv/freespireco#readme) is project founded in April of 2021 by [Public Invention](https://www.pubinv.org),
 but it grows out of an entire year of work on many free-libre open source
 projects by Public Invention and allies. It is dedicated to
 the Freespireco Manifesto, which is a single sentence:
@@ -23,7 +23,7 @@ when invited by an appropriate funding agency.
 ## Why A Larger Grant?
 
 In the year 2020,
-Public Invention has done a lot with about $100,000 in funding,
+Public Invention has [done a lot](https://www.pubinv.org/wp-content/uploads/Annual-Report-2020.docx-2.pdf) with about $100,000 in funding,
 $40,000 of which came in two "flash" grants at the beginning of the pandemic,
 and the rest of which came from a small set of generous donors, some of whom
 were anonymous. This includes developing and actually manufacturing and
@@ -56,10 +56,12 @@ with one of the few devices which has actually been shipped and used
 (though it is a research and development tool, not a clinical tool.)
 This work has resulted in significant academic and popular-press publications.
 
+1. [The importance of characterising dynamic response and inertia in potential rapidly manufactured ventilator systems](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.15190), Anesthesia.
 1. [VentMon: An open source inline ventilator tester and monitor](https://www.sciencedirect.com/science/article/pii/S2468067221000249), HardwareX, Volume 9, 2021.
 1. [The Pandemic-inspired Case for an Open-Source Medical Hardware Ecosystem](https://makezine.com/2020/09/21/the-pandemic-inspired-case-for-an-open-source-medical-hardware-ecosystem/), Make Magazine, Sept. 21st, 2020.
 1. [Plan C Live: Developing an Open Source Ecosystem for Medical Hardware](https://makezine.com/2020/09/22/plan-c-live-opensource-ecosystem-for-medical-hardware/), Make Community Maker News Video chat.
 1. [Humanitarian Engineering: The Open-Source Pandemic Response](https://hackernoon.com/humanitarian-engineering-the-open-source-pandemic-response-r93g3349)
+1. [Episode 40: Robert Read: From Computer Programmer to Founder of Public Invention](https://fashionablylatepodcast.com/episode-40-robert-read-from-computer-programmer-to-founder-of-public-invention/), Fashionably late Podcast.
 
 Public Invention does not pay volunteers for intellectual work.
 (We sometimes pay people for manual labor, such as assemblying
@@ -69,7 +71,7 @@ supplies, and essential services, Public Invention stretches every dollar
 to provide a high impact return on each donation dollar.
 
 Finally, Public Invention is articulating a
-[coordinated vision](https://github.com/PubInv/freespireco#readme
+[coordinated vision](https://github.com/PubInv/freespireco#readme)
 of a complete system of devices which can be expected to save many
 lives in the uncertain future, whether those lives are threatened by
 COVID19 or some other respiratory disease or condition.
@@ -270,6 +272,12 @@ The Budget is therefore simple:
 |Total / annum | $227,000 |
 |Two-year total | $454,000 |
 
+Note: Public Invention produces modular open source software.
+Often one hardware project will generate several reusable pieces of
+software. Because software has essential $0 cost in an all-volunteer
+organization, we don't break out these projects separately, though
+their impact and reusability is high.
+
 ## Expected Impact
 
 This grant will allow Public Invention to:
@@ -278,6 +286,8 @@ production sufficient to spark for-profit firms to consider mass produciton.
 These devices will be open to all persons and all nations, making their
 emergency deployment on a large scale possible, potentially saving
 a large number of lives.
+* A hardware and software ecosystem of communicating devices will be
+established around standards (some of hwihc are already published.)
 * A culture and set of best practices of open-source medical devices will be
 established. By working in the light, the whole world will learn
 from our successes and mistakes. The world will be far better prepared
