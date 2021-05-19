@@ -5,7 +5,7 @@ invents "In the public, for the Public."
 
 ## Introduction
 
-The [Freespirco Project](https://github.com/PubInv/freespireco#readme) is project founded in April of 2021 by [Public Invention](https://www.pubinv.org),
+The [Freespireco Project](https://github.com/PubInv/freespireco#readme) is project founded in April of 2021 by [Public Invention](https://www.pubinv.org),
 but it grows out of an entire year of work on many free-libre open source
 projects by Public Invention and allies. It is dedicated to
 the Freespireco Manifesto, which is a single sentence:
@@ -40,13 +40,13 @@ faster progress across a full spectrum of medical devices.
 ## Why Public Invention?
 
 Public Invention has been a major and connecting player in the
-humanitarin engineering non-profit space since the pandemic began.
+humanitarian engineering non-profit space since the pandemic began.
 Through personal connections and the three public conferences which
 we hosted, we obtained a central position in the respiratory support
 sub-field. We have strong connections to [Helpful](https://helpfulengineering.org/),
 [Open Source Medical Supplies](https://opensourcemedicalsupplies.org/), and [COSMIC](https://cosmicmedical.ca/).
-Our [COVID19-Vent-list](https://docs.google.com/spreadsheets/d/1inYw5H4RiL0AC_J9vPWzJxXCdlkMLPBRdPgEVKF8DZw/edit?usp=sharing) project was a visible connector between the
-many disparate ventilation projects.
+Our [COVID19-Vent-list](https://docs.google.com/spreadsheets/d/1inYw5H4RiL0AC_J9vPWzJxXCdlkMLPBRdPgEVKF8DZw/edit?usp=sharing) spreadsheet was a visible connector between the
+many disparate ventilation projects used globally and widely cited.
 
 We have a proven track record of recruiting and managing small
 technical projects which produce a high impact. Chief among these
@@ -56,15 +56,15 @@ with one of the few devices which has actually been shipped and used
 (though it is a research and development tool, not a clinical tool.)
 This work has resulted in significant academic and popular-press publications.
 
-1. [The importance of characterising dynamic response and inertia in potential rapidly manufactured ventilator systems](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.15190), Anesthesia.
+1. [The importance of characterizing dynamic response and inertia in potential rapidly manufactured ventilator systems](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.15190), Anesthesia.
 1. [VentMon: An open source inline ventilator tester and monitor](https://www.sciencedirect.com/science/article/pii/S2468067221000249), HardwareX, Volume 9, 2021.
 1. [The Pandemic-inspired Case for an Open-Source Medical Hardware Ecosystem](https://makezine.com/2020/09/21/the-pandemic-inspired-case-for-an-open-source-medical-hardware-ecosystem/), Make Magazine, Sept. 21st, 2020.
 1. [Plan C Live: Developing an Open Source Ecosystem for Medical Hardware](https://makezine.com/2020/09/22/plan-c-live-opensource-ecosystem-for-medical-hardware/), Make Community Maker News Video chat.
 1. [Humanitarian Engineering: The Open-Source Pandemic Response](https://hackernoon.com/humanitarian-engineering-the-open-source-pandemic-response-r93g3349)
-1. [Episode 40: Robert Read: From Computer Programmer to Founder of Public Invention](https://fashionablylatepodcast.com/episode-40-robert-read-from-computer-programmer-to-founder-of-public-invention/), Fashionably late Podcast.
+1. [Episode 40: Robert Read: From Computer Programmer to Founder of Public Invention](https://fashionablylatepodcast.com/episode-40-robert-read-from-computer-programmer-to-founder-of-public-invention/), Fashionably Late podcast.
 
 Public Invention does not pay volunteers for intellectual work.
-(We sometimes pay people for manual labor, such as assemblying
+(We sometimes pay people for manual labor, such as assembling
 printed circuit boards.) Robert L. Read, the Head Invention Coach,
 works full-time without compensation. By paying mostly for equipment,
 supplies, and essential services, Public Invention stretches every dollar
@@ -82,7 +82,7 @@ Robert L. Read is the founder and currently the President and Head Invention
 Coach of Public Invention, essentially acting as chief technologist,
 executive director, accountant, funbdraiser, grant writer, and chief publicist.
 In order to free more time
-for technical work on the Freespireco ecosystm, Public Inveniton needs
+for technical work on the Freespireco ecosystem, Public Invention needs
 to hire a consistent full or part-time executive director or administrator for
  $80,000 a year, adjust upward to $120,000 for taxes and benefits.
 
@@ -106,7 +106,7 @@ all-volunteer team to make good progress on an electromechanical device.
 Travel and shipping costs are relatively high for Public Invention,
 because are teams are fundamentally distributed. In some occasions, such
 as major events and conferences, we need the entire team to gather
-in a co-location for physical assmebly, testing, and team-building.
+in a co-location for physical assembly, testing, and team-building.
 We estimate these costs at $2,000 per team.
 We are currently proposing at least six such devices, so we need
 6 * $8,000/year = $48,000/year for basic prototyping.
@@ -141,14 +141,14 @@ but they still cost money.
 Public Invention has studied regulatory compliance issues, which are
 critical to safety and effectiveness of medical devices. In fact,
 we have begun a legal effort (not proposed to be funded here) to
-develop a new kind of [free culture agreement](https://github.com/PubInv/RegulatorySunlight) specifially designed for
+develop a new kind of [free culture agreement](https://github.com/PubInv/RegulatorySunlight) specifically designed for
 medical devices.
 
 More generally, we have a definite strategy for regulatory compliance:
 * Public Invention has no intention of marketing medical devices for clinical use,
 therefore it is unlikely to directly apply for FDA approval, for example.
 * However, it fully intends to support both for-profit and non-profit firms and
-NGOs in marketing devices based on our designs. Therefore we specifially intend
+NGOs in marketing devices based on our designs. Therefore we specifically intend
 to do the kind of Quality Assurance and Risk Analysis documentation on each team
 that is required to facilitate regulatory approval.
 * This process can be integrated with a SCRUM-based development methodology.
@@ -225,8 +225,8 @@ making it difficult for a for-profit business to justify development costs.
 ## "Small-run" Production
 
 As devices become ready for use, we believe the strategy of moving
-to "small-run production" of protypes, on the scale of 10s rather than 100s,
-allows for both hiqh-quality testing and compelling demonstrations
+to "small-run production" of prototypes, on the scale of 10s rather than 100s,
+allows for both high-quality testing and compelling demonstrations
 of the value of the technology. As project reach "small-run production"
 readiness, additional money is required, which we estimate at $30,000 per
 project. "Small-run production" devices do not take on regulatory approval,
@@ -282,16 +282,16 @@ their impact and reusability is high.
 
 This grant will allow Public Invention to:
 * Bring four important free-libre open source medical devices to small-run
-production sufficient to spark for-profit firms to consider mass produciton.
+production sufficient to spark for-profit firms to consider mass production.
 These devices will be open to all persons and all nations, making their
 emergency deployment on a large scale possible, potentially saving
 a large number of lives.
 * A hardware and software ecosystem of communicating devices will be
-established around standards (some of hwihc are already published.)
+established around standards (some of which are already published.)
 * A culture and set of best practices of open-source medical devices will be
 established. By working in the light, the whole world will learn
 from our successes and mistakes. The world will be far better prepared
-for future distasters addressable by engineered devices, whether
+for future disasters addressable by engineered devices, whether
 respiratory, medical, or not.
 * Tested designs of biomedical devices will be placed a public commons
 for devices which may have insufficient profit potential to be developed
