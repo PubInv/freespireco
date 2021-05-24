@@ -1,11 +1,9 @@
 # Freespireco Grant Proposal
 
-Note: As an experiment, I'm writing this "in the light", since Public Invention
-invents "In the public, for the Public."
-
 ## Introduction
 
-The [Freespireco Project](https://github.com/PubInv/freespireco#readme) is project founded in April of 2021 by [Public Invention](https://www.pubinv.org),
+The [Freespireco Project](https://github.com/PubInv/freespireco#readme) was
+articulated in April of 2021 by [Public Invention](https://www.pubinv.org),
 but it grows out of an entire year of work on many free-libre open source
 projects by Public Invention and allies. It is dedicated to
 the Freespireco Manifesto, which is a single sentence:
@@ -17,13 +15,14 @@ the Freespireco Manifesto, which is a single sentence:
 
 The reason for the Freespireco project is explained in the [founding README](https://github.com/PubInv/freespireco/blob/main/README.md).
 
-This document is focused on a budget as preparation for writing a formal grant
+This document is focused on a budget as preparation for writing a formal grant to fund
+building Freespireco
 when invited by an appropriate funding agency.
 
 ## Why A Larger Grant?
 
 In the year 2020,
-Public Invention has [done a lot](https://www.pubinv.org/wp-content/uploads/Annual-Report-2020.docx-2.pdf) with about $100,000 in funding,
+Public Invention has [done much](https://www.pubinv.org/wp-content/uploads/Annual-Report-2020.docx-2.pdf) with about $100,000 in funding,
 $40,000 of which came in two "flash" grants at the beginning of the pandemic,
 and the rest of which came from a small set of generous donors, some of whom
 were anonymous. This includes developing and actually manufacturing and
@@ -33,7 +32,7 @@ by diverse teams working on pandemic ventilators and oxygen concentrators.
 None of the volunteers got paid for this invention and development work.
 (We do pay for some manual services, such as soldering boards together.)
 
-We can probably continue to make progress on this project without receiving
+We can probably continue to make progress on Freespireco without receiving
 a larger grant. However, a larger grant will allow us to make much
 faster progress across a full spectrum of medical devices.
 
@@ -56,7 +55,7 @@ with one of the few devices which has actually been shipped and used
 (though it is a research and development tool, not a clinical tool.)
 This work has resulted in significant academic and popular-press publications.
 
-1. [The importance of characterizing dynamic response and inertia in potential rapidly manufactured ventilator systems](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.15190), Anesthesia.
+1. [The importance of characterizing dynamic response and inertia in potential rapidly manufactured ventilator systems](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.15190), Anesthesia, Volume 75, Issue 12, December 2020.
 1. [VentMon: An open source inline ventilator tester and monitor](https://www.sciencedirect.com/science/article/pii/S2468067221000249), HardwareX, Volume 9, 2021.
 1. [The Pandemic-inspired Case for an Open-Source Medical Hardware Ecosystem](https://makezine.com/2020/09/21/the-pandemic-inspired-case-for-an-open-source-medical-hardware-ecosystem/), Make Magazine, Sept. 21st, 2020.
 1. [Plan C Live: Developing an Open Source Ecosystem for Medical Hardware](https://makezine.com/2020/09/22/plan-c-live-opensource-ecosystem-for-medical-hardware/), Make Community Maker News Video chat.
@@ -86,13 +85,6 @@ for technical work on the Freespireco ecosystem, Public Invention needs
 to hire a consistent full or part-time executive director or administrator for
  $80,000 a year, adjust upward to $120,000 for taxes and benefits.
 
-At present, the President of Public Invention (Robert L. Read) is doing all
-of the accounting. Since we support many teams and have to approve
-and classify every expense, and teams tend to buy many small electromechanical
-parts, this is a significant labor burden that could be off-loaded onto
-other staff. A professional fundraiser could operate more efficiently
-than the Head Invention Coach.
-
 Public Invention has learned through experience with
 the [PolyVent](https://gitlab.com/polyvent/polyvent) team and
 [The Ox](https://github.com/PubInv/Ox)
@@ -102,7 +94,7 @@ Roughly speaking, each device/team needs a modest amount of
 equipment and the ability to create iterative prototypes.
 
 Roughly speaking, $6,000 per year per project is enough for an
-all-volunteer team to make good progress on an electromechanical device.
+all-volunteer team to make good progress on an electromechanical prototype.
 Travel and shipping costs are relatively high for Public Invention,
 because are teams are fundamentally distributed. In some occasions, such
 as major events and conferences, we need the entire team to gather
@@ -117,24 +109,20 @@ At present Public Invention has no intention of distributing medical
 devices which would require it to seek FDA approval.
 However, we believe we can facilitate businesses producing our inventions
 by being fully cognizant of the demands of regulatory approval.
-Therefore, we need a budget for regulatory consultation which is outside
-our current expertise.
 
 Similarly, Public Invention works "[In the light](https://www.pubinv.org/mission/)." This means that
 we publish everything.  At one level, this simply means that code and
 design files are placed in GitHub repos with appropriate licenses.
-However, to be well-published more is required.
-Technical writing is always required, even just in our code files.
-Making sure all files having a proper license notice is additional work
-that benefits from a technical writer. Additionally, Public Invention
+However, to be well-published,
+technical writing is always required, even just in our code files.
+Additionally, Public Invention
 aims for every work to be published in a peer-reviewed academic journal.
 This takes significant labor in additional to drafting the core of the
 papers, and by offsetting this the inventors become more efficient.
 
-Likewise, graphic art and video production is not considered almost
-necessary for the proper publication of new device. These services
-are easily purchased on service-fee basis without a permanent staff,
-but they still cost money.
+Likewise, graphic art and video production is now considered almost
+necessary for the proper publication of new devices.
+These services are easily purchased on service-fee basis without a permanent staff.
 
 ## Regulatory Strategy
 
@@ -147,12 +135,12 @@ medical devices.
 More generally, we have a definite strategy for regulatory compliance:
 * Public Invention has no intention of marketing medical devices for clinical use,
 therefore it is unlikely to directly apply for FDA approval, for example.
-* However, it fully intends to support both for-profit and non-profit firms and
-NGOs in marketing devices based on our designs. Therefore we specifically intend
-to do the kind of Quality Assurance and Risk Analysis documentation on each team
+* However, we support both for-profit and non-profit firms and
+NGOs in manufacturing and marketing devices based on our designs. Therefore we specifically intend
+to do the kind of consistently documented Quality Assurance and Risk Analysis documentation on each team
 that is required to facilitate regulatory approval.
 * This process can be integrated with a SCRUM-based development methodology.
-The Head Coach of Public Invention is a highly experienced Agile team leader and
+The current Head Coach of Public Invention is a highly experienced Agile team leader and
 paid consultant on Agile methodologies.
 
 Although presently it is very common to employ consultants to assure regulatory
@@ -166,8 +154,8 @@ but we reject is as a model for Public Invention.
 
 In the first place, Public Invention is [fiercely dedicated](https://github.com/PubInv/PubInv-License-Guidelines) to free-libre
 open source hardware development and eschews patent monopolies.
-This removes one of the supposed levers of diverting future profits
-to a non-profit. We want to encourage small and large businesses to
+This removes one of the supposed levers of capturing future profits
+to fund a non-profit. We want to encourage small and large businesses to
 manufacture our inventions. Any attempt to retain intellectual property
 stands as an impediment to this, both by decreasing incentives and
 by greatly increasing transaction costs. It is critical to our success
@@ -185,7 +173,7 @@ Thirdly, we want to be free to support all firms that are making our
 devices equally. That is, we wish to encourage any firm to make
 our products. Products are rarely "done", there are always improvements
 to be made, if only in the usage manuals! Any work we do to help
-one firm to deploy our products, we want to freely share with other firms.
+one firm to deploy our products, we will freely share with other firms.
 We would have a conflict of interest if we were in a business relationship
 with one firm and not another.
 
@@ -198,21 +186,19 @@ Many Universities and other non-profits use the model of attempting to
 capture a share of future value as a funding mechanism. We believe it
 is better that Public Invention not compete with Universities and
 serve as an outlet for a different
-approach, The Frictional Production Model.
+approach, The Frictionless Production Model.
 
 Similarly, although every Public Invention project aims for an open-access
 peer-reviewed
-publication and in general we start the paper on the first day of the project,
+publication and our policy is to start the paper on the first day of the project,
 publications are of little personal value to us, unlikely professors
 seeking promotions. Publication is essential to Public Invention because
 an invention which is not shared is without value to humanity; but
 publication for us can range from a simple GitHub repo to a full
 journal paper.
 
-The Frictionless Production Model means that must rely on grants to
-accelerate this project, as we can rely neither on recapture of future value,
-nor is this work "researchy" enough to be especially compelling to
-researchers interested primarily in academic publication.
+The Frictionless Production Model means that we must rely on grants to
+accelerate this project, as we can rely neither on recapture of future value.
 
 However, the Frictionless Production Model can develop devices
 which would never be developed if motivated purely by a profit motive.
@@ -222,27 +208,32 @@ Such a device is acutely needed at present in low-income countries,
 but the demand may fade,
 making it difficult for a for-profit business to justify development costs.
 
-## "Small-run" Production
+Similarly, the basic model of developing manufacturing designs by non-profits
+to be utilized by for-profit firms (The Frictionless Production Model), can
+motivate the development of technology which is not "researchy" enough
+to attract university researchers.
+
+## "Short-run" Production Strategy
 
 As devices become ready for use, we believe the strategy of moving
-to "small-run production" of prototypes, on the scale of 10s rather than 100s,
+to "short-run production" of prototypes, on the scale of 10s rather than 100s,
 allows for both high-quality testing and compelling demonstrations
-of the value of the technology. As project reach "small-run production"
+of the value of the technology. As project reach "short-run production"
 readiness, additional money is required, which we estimate at $30,000 per
-project. "Small-run production" devices do not take on regulatory approval,
+project. "short-run production" devices do not take on regulatory approval,
 but are aimed at research and testing institutions. This strategy has
 been moderately effective for the VentMon, which produced and
 gave away 30 units.
 
-These small-run machines do not have to be given away gratis, but
+These short-run machines do not have to be given away *gratis*, but
 at such small scale of production and in order to support the non-profit
 and research community, we do not expect to recoup much of the
 costs of these production runs.
 
-If we assume two of our six main devices will reach "small-run" readiness
-in the first year, we will need about $100,000 more to produce these
-small runs. If we fail to obtain readiness of our prototypes for
-small-run production, this expense will not be incurred.
+If we assume two of our six main devices will reach "short-run" readiness
+in the first year, we will need about $60,000 more to produce these
+short runs. If we fail to obtain readiness of our prototypes for
+short-run production, this expense will not be incurred.
 
 
 
@@ -264,9 +255,9 @@ The Budget is therefore simple:
 | Alarm System | $8,000 |
 | PAPR | $8,000 |
 | Subtotal (6 projects) | $48,000 |
-| **"Small Run" Projects** |  |
-| "Small Run" Project #1 (TBD) | $30,000 | 1 | |
-| "Small Run" Project #1 (TBD) | $30,000 | 1 | |
+| **"Short Run" Projects** |  |
+| "Short Run" Project #1 (TBD) | $30,000 | 1 | |
+| "Short Run" Project #1 (TBD) | $30,000 | 1 | |
 | Subtotal (2 successful projects) | $60,000 |
 | **Totals** | |
 |Total / annum | $227,000 |
@@ -280,8 +271,8 @@ their impact and reusability is high.
 
 ## Expected Impact
 
-This grant will allow Public Invention to:
-* Bring four important free-libre open source medical devices to small-run
+This two-year grant will allow Public Invention to:
+* Bring four important free-libre open source medical devices to short-run
 production sufficient to spark for-profit firms to consider mass production.
 These devices will be open to all persons and all nations, making their
 emergency deployment on a large scale possible, potentially saving
@@ -293,8 +284,7 @@ established. By working in the light, the whole world will learn
 from our successes and mistakes. The world will be far better prepared
 for future disasters addressable by engineered devices, whether
 respiratory, medical, or not.
-* Tested designs of biomedical devices will be placed a public commons
-for devices which may have insufficient profit potential to be developed
-by for-profit businesses.
+* The free-culture public commons will be enlarged by the addition
+of tested free-libre open source medical devices, probably breaking new ground.
 * Business opportunities will be created for both small and large businesses
 to build devices with significantly decreased research and development costs.
