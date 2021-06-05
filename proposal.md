@@ -79,7 +79,7 @@ COVID19 or some other respiratory disease or condition.
 
 Robert L. Read is the founder and currently the President and Head Invention
 Coach of Public Invention, essentially acting as chief technologist,
-executive director, accountant, funbdraiser, grant writer, and chief publicist.
+executive director, accountant, fundraiser, grant writer, and chief publicist.
 In order to free more time
 for technical work on the Freespireco ecosystem, Public Invention needs
 to hire a consistent full or part-time executive director or administrator for
