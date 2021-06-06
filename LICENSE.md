@@ -37,7 +37,7 @@ If a document looks like a Scientific Article (for example is written in LaTeX),
 If it looks and reads like a publishable peer-reviewed scientific paper or the draft beginning of a publishable peer-reviewed paper, 
 we intend for it to be covered by [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). 
 We use the No Derivatives license for scientific works only in order to maintain scientific integrity. 
-This is the [normal anbd traditional behavior among scientists](https://medium.com/hackernoon/a-disconnect-between-the-free-software-movement-and-open-science-c5f0f0b408f2).
+This is the [normal and traditional behavior among scientists](https://medium.com/hackernoon/a-disconnect-between-the-free-software-movement-and-open-science-c5f0f0b408f2).
 
 If art was drawn by hand, the attribution to the artist should remain with the work [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).
 
