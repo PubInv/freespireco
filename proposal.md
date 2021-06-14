@@ -242,7 +242,7 @@ short-run production, this expense will not be incurred.
 The Budget is therefore simple:
 | **Staff and Services** | Cost  |
 | ---------------------- | -------- |
-| Executive Director  |  $120,000 |
+| Executive Director  |  $80,000 |
 | Legal and Publication | $20,000 |
 | Graphic Art  | $10,000 |
 | Technical Writing  | $5,000 |
@@ -260,8 +260,8 @@ The Budget is therefore simple:
 | "Short Run" Project #1 (TBD) | $30,000 | 1 | |
 | Subtotal (2 successful projects) | $60,000 |
 | **Totals** | |
-|Total / annum | $227,000 |
-|Two-year total | $454,000 |
+|Total / annum | $223,000 |
+|Two-year total | $446,000 |
 
 Note: Public Invention produces modular open source software.
 Often one hardware project will generate several reusable pieces of
