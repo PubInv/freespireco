@@ -23,7 +23,7 @@ and technical information to make safe repairs.
 Furthermore, those plans can be legally improved upon, so long
 as those improvements are shared under the same principles. By
 “safe and effective,” we mean there is a large, compelling, clearly-published
-body of evidence that prove the designs are safe and effective. By
+body of evidence that proves the designs are safe and effective. By
 “widely usable,” we mean that makers have put in significant effort to ensure
 these devices are usable in low-resource, non-mainstream, or high-stress
 environments -- such as by people in rural communities, people with
